@@ -1,0 +1,777 @@
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 1
+Accord-cadre des services de management applicatif
+du système d’information du domaine « Personnes
+Placées Sous Mains de Justice »
+« PPSMJ »
+CONSULTATION : 24_PPSMJ_2
+Forme : Accord-cadre à bons de commande et mono-attributaire
+Montant maximum par lot :
+- Lot 1 : 68 645 833 € HT
+- Lot 2 : 36 041 666 € HT
+- Lot 3 : 19 270 833 € HT
+Date et heure limites de remise des plis : 02 septembre 2024 à 14h00
+Rédacteur
+SG/DNum/P2M/BAJ
+p
+.
+1
+
+|  | Secrétariat Général Direction du numérique Accord-cadre des services de management applicatif du système d’information du domaine « Personnes Placées Sous Mains de Justice » « PPSMJ » CONSULTATION : 24_PPSMJ_2 |
+| --- | --- |
+| Forme : Accord-cadre à bons de commande et mono-attributaire Montant maximum par lot : - Lot 1 : 68 645 833 € HT - Lot 2 : 36 041 666 € HT - Lot 3 : 19 270 833 € HT Date et heure limites de remise des plis : 02 septembre 2024 à 14h00 |  |
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 2
+IV.5. PRECISIONS RELATIVES A LA SOUS-TRAITANCE 10
+2
+11
+3
+V.1. GENERALITES 11
+5
+V.2. PRECISIONS RELATIVES À LA SIGNATURE
+II.1. DOCUMENTS DE REFERENCE /CONTENU DU DOSSIER ELECTRONIQUE 11
+DE CONSULTATION 5
+V.3. PRECISIONS RELATIVES AUX PROGRAMMES
+II.2. MODIFICATION DU DOSSIER DE CONSULTATION 5 INFORMATIQUES MALVEILLANTS 12
+II.3. RENSEIGNEMENTS COMPLEMENTAIRES 6 V.4. PRECISIONS RELATIVES À LA COPIE DE SAUVEGARDE
+12
+II.4. CONSULTATION/AUDITIONS DANS LES LOCAUX 6
+V.5. PRECISIONS RELATIVES A L’EGALITE PROFESSIONNELLE
+II.5. NEGOCIATION 6 ENTRE LES HOMMES ET LES FEMMES 13
+II.6. CLAUSE D’INSERTION PAR L’ACTIVITE ECONOMIQUE 6 V.6. LANGUE FRANÇAISE 13
+III.1. ADRESSE DE REMISE DES OFFRES 7
+14
+III.2. DATE LIMITE DE RECEPTION DES OFFRES 7
+VI.1. EXAMEN DES CANDIDATURES 14
+III.3. DEMANDE DE PROLONGATION 7
+VI.2. EXAMEN DES OFFRES 14
+III.4. DELAI DE VALIDITE DES OFFRES 7
+VI.3 ATTRIBUTION DE L’ACCORD-CADRE, MISE AU POINT15
+8 VI.4. DECISION FINALE/INFORMATION DES CANDIDATS
+EVINCES 16
+IV.1. LES ELEMENTS RELATIFS A LA CANDIDATURE 8
+VI.5. VOIES ET DELAIS DE RECOURS 16
+IV.2. LES ELEMENTS RELATIFS A L’OFFRE 9
+IV.3. PRECISIONS RELATIVES AUX VARIANTES 10 17
+IV.4. PRECISIONS CONCERNANT LES GROUPEMENTS 10
+p
+.
+2
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 3
+Au sein de la Direction du numérique (DNum), les systèmes d’information sont regroupés en domaines applicatifs re-
+groupant les projets fonctionnellement ou techniquement proches.
+Le domaine applicatif "Personnes Placées Sous Mains de Justice" (PPSMJ), sous-ensemble du domaine de la justice pénale,
+regroupe les applications concernant la gestion et le suivi des personnes placées sous-main de justice, à savoir essentiel-
+lement celles entrant dans le champ d’activité de la Direction de l’administration pénitentiaire (DAP), la Direction de la
+protection judiciaire de la jeunesse (DPJJ) et l’Agence du travail d’intérêt général et de l’insertion professionnelle (ATI-
+GIP). L’enjeu est double :
+1. Améliorer la qualité de service proposée aux utilisateurs en prenant en compte leurs attentes en termes de
+simplification de leur travail quotidien.
+2. Moderniser les outils mis à disposition des justiciables, des agents, des partenaires.
+Les projets réalisés au titre des prestations du domaine PPSMJ devront s’accompagner d’une modernisation de l’archi-
+tecture, pour répondre aux enjeux :
+• d’agilité du système d’information face aux changements (réglementaires, organisationnels et procédu-
+raux) ;
+• d’ouverture du système d’information sur son écosystème (facilité de communication avec les SI tiers, ex-
+position de ses données) ;
+• de sécurisation des données et des accès ;
+• d’appui du système d’information sur des référentiels de confiance ;
+• de réutilisation de solutions existantes mutualisées au sein du ministère.
+A cet effet, la présente consultation porte sur le cadrage, la conception, le développement et le maintien en conditions
+opérationnelles et de sécurité des applications composant le système d'information du domaine "Personnes Placées
+Sous Mains de Justice" (PPSMJ), ainsi que l’assistance au ministère dans les opérations du cycle de vie « Produit numé-
+rique1 ».
+Allotissement :
+En application des articles L.2113-10 et R.2113-1 du code de la commande publique, l’accord-cadre objet de présente
+consultation est composé de 3 lots définis comme suit :
+CODES CPV COMMUNS A
+N° DU LOT INTITULES
+TOUS LES LOTS
+LOT N° 1 Applications couvrant le périmètre fonctionnel de la détention 72260000 – Services relatifs
+aux logiciels.
+72267000 – Services de mainte-
+nance et de réparations de lo-
+LOT N° 2 Applications couvrant le périmètre fonctionnel du suivi du détenu giciels.
+72262000 – Services de déve-
+loppement de logiciels.
+72267100 – Maintenance de lo-
+LOT N° 3 Applications couvrant le périmètre fonctionnel de l’insertion giciels et de technologies de
+l’information.
+Les soumissionnaires sont libres de présenter une offre pour chacun des lots. Le nombre de lot pouvant être attribué à
+un même soumissionnaire n’est pas limité.
+Le détail des prestations attendues est indiqué dans le cahier des clauses techniques particulières.
+1 De la relation avec des utilisateurs finaux et la prise en compte des besoins métier, jusqu’à la vie en production.
+p
+.
+3
+
+| N° DU LOT | INTITULES |  | CODES CPV COMMUNS A |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | TOUS LES LOTS |  |
+| LOT N° 1 | Applications couvrant le périmètre fonctionnel de la détention | 72260000 – Services relatifs aux logiciels. 72267000 – Services de mainte- nance et de réparations de lo- giciels. 72262000 – Services de déve- loppement de logiciels. 72267100 – Maintenance de lo- giciels et de technologies de l’information. |  |  |
+| LOT N° 2 | Applications couvrant le périmètre fonctionnel du suivi du détenu |  |  |  |
+| LOT N° 3 | Applications couvrant le périmètre fonctionnel de l’insertion |  |  |  |
+
+| 72260000 – Services relatifs |
+| --- |
+| aux logiciels. |
+| 72267000 – Services de mainte- |
+| nance et de réparations de lo- |
+| giciels. |
+| 72262000 – Services de déve- |
+| loppement de logiciels. |
+| 72267100 – Maintenance de lo- |
+| giciels et de technologies de |
+| l’information. |
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 4
+Procédure :
+Sur la base des dispositions des articles L.2124-1, L.2124-2, R.2124-2 et R.2161-2 à R.2161-5 du code de la commande
+publique, la procédure de la consultation est celle de l'appel d'offres ouvert.
+Forme :
+Le marché passé au terme de cette consultation sera un accord-cadre mono-attributaire exécuté par l’émission de bons
+de commande passé en application des articles L.2125-1 1°, R.2162-1 à R.2162-6 et R.2162-13 à R.2162-14 du code de la
+commande publique. Il sera conclu avec seulement un maximum.
+Montants sur la durée totale d’exécution
+N° DU LOT INTITULES Montant maximum
+Montant estimé HT
+HT
+Applications couvrant le périmètre fonctionnel de la
+LOT N°1 27 458 333 € 68 645 833 €
+détention
+Applications couvrant le périmètre fonctionnel du
+LOT N°2 14 416 666 € 36 041 666 €
+suivi du détenu
+Applications couvrant le périmètre fonctionnel de l’in-
+LOT N°3 7 708 333 € 19 270 833 €
+sertion
+Les montants estimatifs de l’accord-cadre sont purement indicatifs. Ils n’engagent nullement le ministère de la Justice.
+Durée :
+Le présent accord-cadre est conclu pour une durée de 2 ans à compter de sa date de notification. Il peut être recon-
+duit deux fois pour une période d’un an (12 mois) à sa date anniversaire (2 + 1 + 1), sans que sa durée n’excède 4 ans.
+Financement :
+Le financement de l’opération est assuré par les fonds propres du ministère de la Justice. Elle est susceptible de faire
+l’objet d’attribution des fonds d’autres organismes.
+p
+.
+4
+
+| N° DU LOT | INTITULES |  | Montants sur la durée totale d’exécution |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Montant estimé HT |  |  | Montant maximum |  |
+|  |  |  |  |  | HT |  |
+| LOT N°1 | Applications couvrant le périmètre fonctionnel de la détention | 27 458 333 € |  | 68 645 833 € |  |  |
+| LOT N°2 | Applications couvrant le périmètre fonctionnel du suivi du détenu | 14 416 666 € |  | 36 041 666 € |  |  |
+| LOT N°3 | Applications couvrant le périmètre fonctionnel de l’in- sertion | 7 708 333 € |  | 19 270 833 € |  |  |
+
+| Applications couvrant le périmètre fonctionnel de la |
+| --- |
+| détention |
+
+| Applications couvrant le périmètre fonctionnel du |
+| --- |
+| suivi du détenu |
+
+| Applications couvrant le périmètre fonctionnel de l’in- |
+| --- |
+| sertion |
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 5
+II.1. DOCUMENTS DE REFERENCE /CONTENU DU DOSSIER DE CONSULTATION
+Dans le cadre de la présente consultation, le dossier de consultation des entreprises (D.C.E) est constitué des documents
+suivants :
+1. L’acte d’engagement et son annexe financière pour chaque lot, composée du BPU, de la Table des profils et
+du DQE (détail quantitatif estimatif) à compléter (les quantités ne sont pas contractuelles) ;
+2. Le cahier des clauses administratives particulières (C.C.A.P) et ses annexes ;
+▪ Annexe 1 – « Sous-traitance Informatique et Libertés » (RGPD)
+▪ Annexe 2 – Engagement RSE
+3. Le cahier des clauses techniques particulières (C.C.T.P) et ses annexes ;
+▪ Annexe 3 – Méthodologie MJ Description des rôles Agile
+▪ Annexe 5 – Cadre de référence de la méthodologie transverse de la démarche des tests
+▪ Annexe 6 – Guide de sécurité des systèmes d’informations
+▪ Annexe 7 – Standards de développement
+▪ Annexe 8 – Glossaire Agile
+▪ Annexe 10 – Modèle Plan d’Assurance et de Contrôle Qualité (PACQ)
+▪ Annexe 11 – Impact d’agilité démarche tests
+▪ Annexe 12 – Guide d’homologation de sécurité
+▪ Annexe 13 – Extrait chapitre réversibilité du marché PPSMJ
+▪ Annexe 14 – Matrice de complexité d’une application
+▪ Annexe 15 – Modèle Plan d’Assurance Sécurité (PAS)
+▪ Annexe 16 – Cadre de cohérence technique.
+4. Le cadre de réponse technique et ses annexes ;
+▪ Annexe A – Points à préciser
+▪ Annexe B – Décomposition des prestations
+5. Le présent règlement de la consultation (R.C) ;
+6. Les formulaires DC1, DC2 et DC4.
+À compter de la date de notification, l’acte d’engagement, le bordereau de prix unitaire, le cahier des clauses
+administratives particulières, le cahier des clauses techniques particulières, les différentes annexes portées à la
+connaissance des candidats forment avec la proposition du titulaire, la base contractuelle de l'accord-cadre.
+Outre le dossier de consultation des entreprises, il est fait référence aux documents généraux suivants :
+1. Le code de la commande publique ;
+2. Le cahier des clauses administratives générales applicable aux marchés de techniques de l’information et de
+la communication (CCAG-TIC), approuvé par arrêté du 30 mars 2021 ;
+3. La directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés
+publics.
+Le présent règlement de la consultation n’est en revanche pas destiné à être retourné en ce qu’il n’a pour objet que
+d'informer les candidats et de fixer l'organisation de la consultation.
+II.2. MODIFICATION DU DOSSIER DE CONSULTATION
+L'Administration se réserve le droit d'apporter des modifications de détail aux documents de la consultation listés ci-
+dessus, au plus tard six (6) jours avant la date limite de réception des offres soit le 27/08/2024.
+Si les modifications apportées sont considérées comme trop importantes en ce qu'elles pourraient contraindre les
+entreprises à revoir leur proposition, la date limite de dépôt des plis est reportée de telle façon à ce que chacun des
+candidats puisse tenir compte desdites modifications dans sa réponse.
+Quelle que soit la nature de la modification apportée au DCE, l’ensemble des candidats est immédiatement informé de
+celle-ci par messagerie électronique sécurisée via la plateforme des achats de l’Etat (PLACE) : https://www.marches-pu-
+blics.gouv.fr/?page=entreprise.AccueilEntreprise
+p
+.
+5
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 6
+Aucune modification ne peut être apportée au dossier de consultation par les candidats. Toutes réserves et modifica-
+tions portées directement par les candidats sur les documents de la consultation sont susceptibles de justifier leur
+élimination.
+II.3. RENSEIGNEMENTS COMPLEMENTAIRES
+Les candidats peuvent demander toutes les précisions qu'ils jugent utiles à l'établissement de leur offre jusqu’au
+23/08/2024 soit 10 jours avant la date limite de réception des offres.
+Ces demandes doivent être transmises par le biais de la PLACE en cliquant sur le bouton « poser une question ».
+L'Administration apportera la réponse nécessaire par le biais de la PLACE.
+Conformément aux dispositions de l'article R.2132-6 du code de la commande publique, ces renseignements seront
+communiqués au plus tard le 27/08/2024, soit six (6) jours avant la date limite de réception des offres.
+Pour être informés des échanges avec le Ministère, les candidats devront vérifier que les courriels émis depuis
+l'adresse des échanges avec la plate-forme des achats de l'État (PLACE) nepasrepondre@marches-publics.gouv.fr ne
+soient pas bloqués par des filtres de leur système de messagerie.
+L’attention des entreprises est attirée sur le fait que, si une identification n’est pas exigée sur le site susvisé, le choix d’un
+accès anonyme empêche la communication des informations complémentaires et des éventuelles modifications
+apportées dans le cadre de la consultation.
+II.4. CONSULTATION/AUDITIONS DANS LES LOCAUX
+Dans le cadre du présent appel d’offres, l’Administration se réserve la possibilité d’organiser des auditions techniques
+des candidats dans les locaux du ministère de la Justice. Le cas échéant, les échanges devront être rapportés dans un
+document permettant d’établir leur traçabilité.
+Les modalités des auditions devront être les mêmes pour l’ensemble des candidats. Elles seront précisées dans le courrier
+électronique de convocation, qui devra être envoyé via la plateforme PLACE, dans un délai raisonnable déterminé par
+l’Administration.
+II.5. NEGOCIATION
+Aux termes de l’article R.2161-5 du code de la commande publique, l’Administration ne peut négocier avec les
+soumissionnaires. Il lui est seulement possible de demander aux candidats de préciser la teneur de leur offre.
+II.6. CLAUSE D’INSERTION PAR L’ACTIVITE ECONOMIQUE
+Pour promouvoir l’emploi et combattre l’exclusion, le pouvoir adjudicateur a décidé de faire application des dispositions
+de l’article L.2112-2 du code de la commande publique en incluant dans le cahier des charges de la présente consultation
+une clause obligatoire d’insertion par l’activité économique. Cette clause est applicable à tous les lots de la consultation.
+Pour l’exécution du marché, l’entreprise attributaire devra réaliser une action d’insertion qui permette l’accès ou le retour
+à l’emploi de personnes rencontrant des difficultés sociales ou professionnelles particulières.
+Pour faciliter la mise en œuvre de la clause d'insertion, le pouvoir adjudicateur a mis en place un dispositif d’accompa-
+gnement mis en œuvre par :
+Ensemble Paris Emploi Compétences
+18 rue Goubet
+75019 Paris
+Les candidats ne sont pas autorisés à formuler de réserve dans leur offre sur la clause obligatoire d’insertion par l’activité
+économique.
+Une offre qui ne satisferait pas à cette condition d’exécution sera déclarée irrégulière au motif de non-respect du cahier
+des charges.
+p
+.
+6
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 7
+III.1. ADRESSE DE REMISE DES OFFRES
+Conformément à l'article R.2132-7 du code susvisé, les offres sont transmises uniquement par voie électronique, dans
+les conditions formelles détaillées au point V ci-après, sur la plate-forme PLACE :
+https://www.marches-publics.gouv.fr/?page=entreprise.AccueilEntreprise
+III.2. DATE LIMITE DE RECEPTION DES OFFRES
+Les offres doivent être reçues :
+Avant le : 02 septembre 2024 A 14 : 00
+III.3. DEMANDE DE PROLONGATION
+Toute demande de prolongation des délais de la consultation doit parvenir dans les mêmes conditions d’envoi des
+questions et des délais que celles qui trouvent à s’appliquer aux renseignements complémentaires énoncés au point II.3
+ci-avant.
+L'Administration est libre de donner suite ou non aux demandes qui lui parviennent.
+Dans le cas d'une décision de prolongation des délais, chaque candidat en est averti par message électronique via PLACE.
+III.4. DELAI DE VALIDITE DES OFFRES
+Les offres sont valables 6 mois à compter de la date limite de réception des offres susmentionnée, ceci incorporant une
+obligation à la charge des seules sociétés déclarées attributaires d'accepter une matérialisation de leur offre en fin de
+procédure.
+p
+.
+7
+
+| Avant le : |  | 02 septembre 2024 |  | A 14 : 00 |
+| --- | --- | --- | --- | --- |
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 8
+IV.1. LES ELEMENTS RELATIFS A LA CANDIDATURE
+IV.1.1 – Si le candidat répond à plusieurs lots, il adresse un dossier unique de candidature où il mentionne expressément
+le(s) lot(s) pour le(s)quel(s) il candidate.
+IV.1.2 – Le dossier transmis par les candidats en réponse à la présente consultation comporte au minimum les éléments
+suivants :
+- Le formulaire DC 1 ("Lettre de candidature Désignation du mandataire par ses cotraitants'') renseigné ;
+- La copie du (ou des) jugement(s) prononcés, s'il est en redressement judiciaire ;
+- Le formulaire DC 2 renseigné (''Déclaration du candidat individuel ou du membre du groupement'') com-
+prenant les renseignements et documents demandés ci-dessous permettant d’apprécier les capacités fi-
+nancières, techniques et professionnelles du candidat conformément à l'arrêté du 22 mars 2019 fixant la
+liste des renseignements et des documents pouvant être demandés aux candidats aux marchés publics, à
+savoir :
+• une déclaration concernant le chiffre d'affaires global du candidat, et, le chiffre d'affaires du domaine
+d'activité faisant l'objet du marché public, portant au maximum sur les trois (3) derniers exercices dis-
+ponibles en fonction de la date de création de l'entreprise ou du début de l'activité de l'opérateur
+économique, dans la mesure où les informations sur ces chiffres d'affaires sont disponibles ;
+• une déclaration indiquant les effectifs moyens annuels du candidat et l'importance du personnel d'en-
+cadrement pendant les trois (3) dernières années ;
+• une liste des principales fournitures et services fournis au cours des trois (3) dernières années, indiquant
+le montant, la date, et le destinataire public ou privé. Les prestations de services sont prouvées par des
+attestations du destinataire ou, à défaut, par une déclaration de l'opérateur économique.
+Il est précisé que si plusieurs opérateurs soumettent une candidature commune (groupement) :
+→ Le DC1 est complété par le seul mandataire s'il est habilité à représenter le groupement et, dans le
+cas contraire, par chacun de ses membres ;
+→ Le DC2 est transmis pour chacune des sociétés membres du groupement.
+IV.1.3 – En application des dispositions de l’article R.2143-14 du code susvisé, un candidat peut s'abstenir de renvoyer
+certaines des pièces administratives susvisées :
+• lorsque celles-ci ont été transmises dans le cadre d'une précédente consultation initiée par la DNum du ministère
+de la Justice et qu'elles demeurent valables ;
+• en fournissant les chemins et moyens d'accès permettant à l'Administration d'accéder directement et librement à
+un espace de stockage numérique où lesdites pièces administratives sont accessibles.
+Étant précisé que ceci ne vaut pas pour les formulaires DC 1 et DC 2 qui restent le vecteur principal de la candidature2.
+Cette abstention s'accompagne d'une référence claire au(x) dossier(s) dans le(s)quel(s) l'Administration peut retrouver
+les éléments permettant d'apprécier sa situation juridique, sa capacité financière et sa capacité professionnelle et
+technique.
+IV.1.4 - Par application des dispositions de l'article R.2142-3 du code de la commande publique, pour justifier de leurs
+capacités, le ou les candidats, même s'il s'agit d'un groupement, peuvent demander que soient également prises en
+compte les capacités professionnelles, techniques et financières d'autres opérateurs économiques, quelle que soit la
+nature juridique des liens existants entre ces opérateurs et lui. Dans ce cas, le ou les candidats produisent, concernant
+cet opérateur économique, les mêmes documents que ceux qui leur sont demandés ci-dessus (la règle du renvoi à des
+consultations précédentes trouvant le cas échéant à s'appliquer à l'identique).
+En outre, pour justifier qu'ils disposent effectivement des capacités de cet opérateur économique pour l'exécution de
+l'accord-cadre, ils produisent un engagement écrit signé par un représentant de l'opérateur économique considéré.
+2 Le second de ces deux formulaires, le DC2 donc, pouvant pour certaines de ses rubriques être renseigné sur la base de renvois explicites
+à un dossier de candidature précédent.
+p
+.
+8
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 9
+IV.1.5 - Conformément aux dispositions de l'article R.2143-13 du code susvisé, le ou les candidats ne sont pas tenus de
+fournir les documents et renseignements que l'Administration peut obtenir directement et à titre gratuit par le biais d'un
+système électronique de mise à disposition d'informations administré par un organisme officiel ou d'un espace de
+stockage numérique, à condition que le dossier transmis soit parfaitement explicite s'agissant :
+• des éléments ci-avant demandés qui sont ainsi rendus accessibles ;
+• des conditions d'accès au dit système électronique ou au dit espace.
+IV.1.6 – En application de l'article R.2143-4 du code de la commande publique, le ou les candidats peuvent présenter leur
+candidature sous la forme d'un document unique de marché européen (DUME), au format .xml, en lieu et place des
+documents mentionnés au paragraphe IV.1.2 ci-avant. Dans ce cas, il est précisé que le ou les candidats sont autorisés à
+se limiter à indiquer dans le DUME qu'ils disposent de l'aptitude et des capacités requises sans fournir d'informations
+particulières sur celles-ci3.
+Le DUME est accessible sur la plate-forme http://www.marches-publics.gouv.fr lors de la réponse du ou des candidats à
+la présente consultation.
+Il est précisé que le ou les candidats peuvent réutiliser un DUME déjà été utilisé dans une procédure antérieure, tant que
+les informations qu'il contient demeurent valables et à jour.
+Par ailleurs, un ou des candidats qui entendent recourir aux capacités d'une ou de plusieurs autres entités pour remplir
+les conditions de participation doit veiller à ce que l'Administration reçoive à la fois son DUME et un DUME distinct
+contenant les informations pertinentes pour chacune des entités auxquelles il fait appel.
+IV.2. LES ELEMENTS RELATIFS A L’OFFRE
+Si le candidat répond à plusieurs lots, il doit adresser à l'Administration une enveloppe offre pour chaque lot.
+S'agissant de l'offre, le dossier transmis par les entreprises en réponse à la présente consultation comporte au minimum
+les éléments suivants :
+1. L’acte d’engagement et son annexe financière par lot fournis dans le dossier de consultation des entreprises
+complétés sur les points suivants :
+• remplir le cadre B du document « Engagement du candidat », en précisant, outre le nom et la qualité du
+signataire, l'origine de son pouvoir d'engager la société4 (lorsque l'Administration possède déjà les documents
+ad hoc, le candidat précise le (ou les) moyens(s) par le(les)quel(s) l'Administration peut les retrouver) ;
+• renseigner l’annexe financière à l’acte d’engagement en y portant les prix et/ou tarifs des biens ou services
+couverts par l'accord-cadre (en exposant clairement les prix publics et les remises si telle est la forme de prix
+retenue).
+Dans le cas où il entend obtenir l'agrément d'un (ou de plusieurs) sous-traitant(s), le formulaire DC4 renseigné, portant
+clairement la part de l'accord-cadre appelée à faire l'objet de sous-traitance.
+1. Le cadre de réponse technique (faisant office de la proposition technique du candidat) et ses Appendices A et
+B joints au dossier de consultation des entreprises et des éléments requis dans le cadre du cahier des clauses
+techniques particulières (et les éventuelles documentations techniques qu’il souhaite joindre en annexe).
+L’attention du candidat est attirée sur le fait que le nombre de page du CRT, rédigé en « Times New Roman » 12
+avec des interlignes simples, ne doit pas excéder 80 pages (hors annexes). Le non-respect de cette obligation
+entraîne le rejet de l’offre.
+2. L’engagement RSE (annexe 2 CCAP) dûment complété et signé ;
+3. Une version initialisée du Plan d’Assurance et de Contrôle Qualité (PACQ) ;
+4. Une version initialisée du Plan d’Assurance sécurité (PAS).
+3 Étant rappelé qu'en remplissant le DUME, le candidat s'engage, en toute hypothèse, à produire les renseignements et documents requis
+par l'Administration qui peut les lui demander, ensuite, à tout moment de la procédure en tout ou partie.
+4 Cette vérification s'opère par le biais de de son numéro unique d’identification (le ou les candidats peuvent les envoyer par le biais de
+son numéro de SIREN à une consultation des sites spécialisés ou en transmettre une copie) et, le cas échéant, par tout autre document
+attestant de la capacité du signataire à engager le candidat.
+p
+.
+9
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 10
+S’ils n’ont pas à être fournis dans l’offre par les candidats, le CCAP et le CCTP de la consultation à prendre en compte
+sont ceux de la dernière version du DCE publié sur la PLACE.
+IV.3. PRECISIONS RELATIVES AUX VARIANTES
+Dans le cadre de la présente consultation, les variantes à l’initiative des candidats ne sont pas autorisées.
+Il n’est pas prévu de variantes à l’initiative du pouvoir adjudicateur.
+IV.4. PRECISIONS CONCERNANT LES GROUPEMENTS
+Dans le cas où ils souhaitent se présenter en groupement, les opérateurs économiques peuvent se présenter sous la
+forme d'un groupement conjoint ou solidaire, conformément aux articles R.2142-19 et R.2142-20 du code de la
+commande publique et, dans ce cadre, le dossier de candidature :
+• habilite, dans le DC1, quelle que soit la forme juridique du groupement, un mandataire représentant l'ensemble des
+membres vis-à-vis de l'Administration et coordonnant les prestations des membres du groupement.
+• identifie les modalités de paiement des cotraitants en indiquant obligatoirement au choix :
+− un compte bancaire commun (ce qui n'est possible que pour un groupement solidaire) ;
+− une identification aussi claire que possible des interventions de chacun (valable quelle que soit la forme du
+groupement).
+Il est précisé qu'un même opérateur économique ne peut pas :
+- faire partie de plusieurs groupements concurrents ;
+- présenter en même temps une offre individuelle et une offre groupée.
+En cas de groupement conjoint, le mandataire est nécessairement solidaire, pour l’exécution du présent accord-cadre,
+de chacun des membres du groupement pour ses obligations contractuelles à l’égard de l’Administration.
+Sur les sujets de groupement, l'attention des candidats est attirée sur le fait qu'une « bourse à la cotraitance » a été mise
+en place sur la PLACE5 qui, comme l'indique la direction des achats de l’État, vise à « faciliter les contacts avec d’autres
+entreprises avant de répondre à des marchés de l’État de manière groupée sous la forme de groupement momentané
+d’entreprise (GME) ».
+IV.5. PRECISIONS RELATIVES A LA SOUS-TRAITANCE
+Si le ou les candidats entend (ent) présenter et s’appuyer sur les capacités d'un ou plusieurs sous-traitant(s) pour l'analyse
+de sa candidature, ils doivent :
+• Transmettre un DC4 dûment complété et signé par le candidat et le sous-traitant ou toute déclaration
+mentionnant à minima les éléments suivants :
+• la nature des prestations sous-traitées ;
+• l’unité d’œuvre de la prestation conformément au bordereau des prix unitaires ;
+• le nom, la raison ou dénomination sociale et l’adresse du sous-traitant proposé ;
+• le montant maximum des sommes à verser au sous-traitant (avec la décomposition des prestations) ;
+• les conditions de paiement prévues par le projet de contrat de sous-traitance ;
+• la durée du contrat de sous-traitance en nombre de mois ;
+• le cas échéant, les capacités du sous-traitant sur lesquels le candidat s’appuie ;
+• le fait que le sous-traitant ne tombe pas sous le coup d’une interdiction de soumissionner.
+• Fournir un extrait Kbis datant de moins de trois (3) mois ainsi que les attestations fiscales et sociales du sous-trai-
+tant datant de moins de six (6) mois.
+A défaut de tels éléments, l'Administration se réserve la possibilité de juger la candidature et l’offre au regard des
+seules capacités du candidat « principal », sans qu’aucune contestation ne puisse être élevée par ce dernier.
+5https://www.economie.gouv.fr/dae/nouveau-service-sur-place-pour-pme-bourse-a-cotraitance.
+p
+.
+10
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 11
+V.1. GENERALITES
+Dans le cadre de la transmission électronique obligatoire énoncée ci-avant, la transmission se fait nécessairement par le
+biais de la plateforme précitée, étant précisé que :
+• l’utilisation des services de la plate-forme suppose l'acceptation des conditions d'utilisation (notamment des
+prérequis techniques accessibles sur la plate-forme) ;
+• l’utilisation des logiciels bureautiques courants (documents en. odt, .doc, .xls, .pdf, …) est impérative ;
+• il convient d'exclure les formats comportant des éléments exécutables, tels que les « .exe », les scripts et les outils
+faisant appel à des « macros ».
+En rappelant que les conditions d'utilisation de la plate-forme alertent clairement sur les questions de connexion, les
+candidats sont, en cas de difficulté technique rencontrée dans le cadre de la remise de leur dossier (certificat ou signature
+électroniques, problème de transmission…), invités sans délai à :
+• contacter le support de la plateforme6, le mieux à même de les assister dans leur démarche, qui leur remet un
+ticket d'incident prouvant leur bonne foi ;
+• Informer le service des difficultés rencontrées et des réponses apportées par le support.
+En tout état de cause, il est rappelé qu'il appartient aux entreprises de prendre toutes les dispositions nécessaires pour
+s'assurer de la remise de leurs dossiers sur la plate-forme dans les délais.
+Pour une question de présentation, le dépôt électronique respecte les dispositions de l'article IV ci-avant quant à l'iden-
+tification, au sein d'un même pli global, une partie « candidature » et une partie « offre » distincte apparaissent. Ces
+parties présentent le contenu desdits dossiers (voir article IV.1 et IV.2 ci-avant).
+L'attention des entreprises est attirée sur le fait que, si une identification n'est pas exigée sur le site susvisé, le choix d'un
+accès anonyme empêche la communication des informations complémentaires et des éventuelles modifications
+apportées dans le cadre de la consultation.
+V.2. PRECISIONS RELATIVES À LA SIGNATURE ELECTRONIQUE
+Par application des dispositions de l'arrêté du 22 mars 2019 relatif à la signature électronique dans la commande
+publique, l'acte d'engagement et son annexe (Bordereau de prix unitaire) ainsi que le mémoire de réponse du candidat
+peuvent être, dès la remise de l’offre, signés au moyen d'un certificat de signature électronique, qui garantit notamment
+son identification.
+Dans ce cadre, la signature électronique est considérée comme valable si les quatre impératifs suivants sont respectés :
+1. La signature est effectivement apposée au travers d'un outil ad hoc qui peut être :
+• l’outil de signature de la PLACE ;
+• tout autre outil qui respecte les conditions stipulées aux articles 3 et 5 de l'arrêté du 22 mars 2019 relatif à la
+signature électronique dans la commande publique.
+2. Le certificat de signature est établi et utilisé dans les conditions stipulées à l'article 2 dudit arrêté7 ;
+3. Le certificat utilisé est valide à la date de la signature du document (ni échu, ni révoqué) ;
+4. Le certificat est établi au nom d'une personne physique autorisée à signer (personne ayant la capacité à engager la
+société, attestée par le biais d'un l'extrait K-Bis ou de son équivalent ou, le cas échéant, par tout autre document
+attestant de la capacité du signataire à engager le candidat).
+Sauf à ce qu'ils les aient adressés dans le cadre d'une précédente consultation (auquel cas il le précise expressément et
+indique alors à l'Administration comment les récupérer), le candidat fournit, en français ou au minimum accompagné
+6 Contact du support PLACE : 01-76-64-74-07 – place.support@atexo.com
+7 Les éléments d'information (documents de référence de l'Administration électronique : RGS et référencement, liste des
+organismes habilités au référencement (RGS), liste des offres référencées (RGS), liste de confiance française, liste de
+confiance européenne...) sont accessibles à l'adresse : https://www.ssi.gouv.fr/entreprise/reglementation/confiance-
+numerique/liste-des-documents-constitutifs-du-rgs-v-2-0/
+p
+.
+11
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 12
+d'une traduction en français, tous les éléments permettant à l'Administration de procéder aux vérifications des éléments
+ci-dessus, ceci valant notamment pour :
+• le certificat de signature lorsqu'il n'est pas référencé par les autorités nationales ou européennes (vérification de la
+qualité et du niveau de sécurité du certificat) ;
+• l’outil de signature (validité de la signature et intégrité du document.)
+Dans le cadre d'une cotraitance ou d'une sous-traitance, le candidat peut, s'il le souhaite, recourir à un parapheur
+électronique facilitant la signature multiple d'un même document. Dans ce cadre, il est rappelé que chaque signature
+doit pouvoir être vérifiée indépendamment des autres.
+V.3. PRECISIONS RELATIVES AUX PROGRAMMES INFORMATIQUES MALVEILLANTS
+Dans le cas où un programme informatique malveillant (virus, cheval de Troie...) est détecté lors de l'ouverture des
+dossiers de candidature et/ou d'offre, l'Administration procède :
+• à une tentative de réparation (mise en œuvre des programmes informatiques ad hoc) ;
+• à l'ouverture de la copie de sauvegarde lorsque celle-ci existe, dans les limites et conditions stipulées au point V.4 ci-
+après.
+L'impossibilité technique d'ouvrir une offre et sa copie de sauvegarde le cas échéant conduit dès lors à la rejeter puis à
+en informer le candidat concerné dans les conditions fixées à l'article R.2181-1 du Code de la commande publique.
+V.4. PRECISIONS RELATIVES À LA COPIE DE SAUVEGARDE
+Conformément aux dispositions de l'article R.2132-11 du code susvisé, le candidat peut, s'il le souhaite, adresser
+parallèlement une copie de sauvegarde à l'Administration.
+Reprenant strictement les mêmes éléments que le dossier principal, ladite copie peut être faite sur support physique
+électronique (cédérom ou clé USB) ou sur support papier.
+Dans le premier cas, il est rappelé que les documents de la copie de sauvegarde peuvent être signés électroniquement
+au moyen d'un certificat de signature électronique dans les mêmes conditions que celles présentées au V.2.
+Elle doit parvenir dans les délais impartis pour la réception des plis et être placée dans un pli scellé comportant l'objet
+de la consultation et la mention lisible : « copie de sauvegarde » ainsi que la référence du pli déposé sur la plate-forme
+« www.marches-publics.gouv.fr », et peut ainsi :
+• Être adressée sous pli recommandé avec avis de réception postal à l'adresse suivante :
+Ministère de la Justice
+SG/DNUM/P2M/BAJ
+13, place Vendôme - 75042 Paris Cedex 01
+• Être déposée du lundi au vendredi de 9 h 00 à 12 h 00 et de 14 h 00 à 17 h 00, contre remise d'un récépissé, dans les
+locaux de l’Administration à l'adresse suivante :
+Ministère de la Justice
+SG/DNUM/P2M/BAJ
+Immeuble Le Millénaire 2 – 35, rue de la Gare – Paris 19ème
+Tram 3bis, RER E : station ''Rosa Parks''
+La copie de sauvegarde ne peut être ouverte que dans les cas prévus à l'article 7 de l'arrêté du 14 décembre 2009 relatif
+à la dématérialisation des procédures de passation des marchés publics.
+Conformément au décret n°2022-1683 du 28 décembre 2022, la copie de sauvegarde peut être transmise également par
+voie dématérialisée (via une plateforme cloud par exemple).
+p
+.
+12
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 13
+V.5. PRECISIONS RELATIVES A L’EGALITE PROFESSIONNELLE ENTRE LES HOMMES ET LES FEMMES
+Le ministère de la Justice est engagé dans une démarche de promotion de la diversité et de l’égalité professionnelle entre
+les femmes et les hommes. A ce titre, il est attentif dans le choix de ses contractants comme dans la réalisation des
+prestations, au respect des dispositions législatives et réglementaires en la matière.
+En application de l’article L.2112-2 du code de la commande publique, le titulaire doit s'engager, au titre de l'exécution
+du marché, dans une démarche d’amélioration continue de la qualité de ses pratiques sociales en matière de prévention
+des discriminations, ainsi que de promotion de l'égalité des chances et de la diversité, notamment l’égalité entre les
+femmes et les hommes (éga-conditionnalité).
+La promotion de la diversité s'entend comme l'ensemble des moyens permettant de garantir l'égalité réelle de traite-
+ment entre tous les individus dans le domaine de l'emploi, indépendamment de leurs différences. Elle regroupe des
+actions de lutte contre les discriminations et de promotion de l'égalité des chances ».
+La prise en compte de l’égalité femmes-hommes doit être limitée aux prestations qui font l’objet du marché et aux
+moyens humains affectés à l’exécution des prestations dudit contrat. Dès lors, l’attributaire doit impérativement rensei-
+gner le questionnaire disponible via le lien ci-dessous, avant la date de notification du marché :
+https://s1.sphinxonline.net/surveyserver/s/ENQUETES-JUSTICE/Diversite_Discriminations_Egalite_2021/question-
+naire.htm
+Le questionnaire devra également être complété 2 mois avant la date de fin de l’accord-cadre.
+V.6. LANGUE FRANÇAISE
+L’intégralité des pièces adressées dans le cadre de la présente procédure est rédigée en français. Si un document de
+l’offre ou de la candidature n'est pas rédigé dans cette langue, il s'accompagne impérativement d'une traduction en
+français certifiée conforme à l'original par un traducteur assermenté.
+Tous les documents non traduits sont considérés comme inexistants.
+p
+.
+13
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 14
+Conformément à l’article R.2144-3 du code de la commande publique, l’Acheteur peut décider d’examiner les offres
+avant les candidatures.
+Conformément à l’article R.2144-2 du code de la commande publique, le ministère de la Justice se réserve la possibilité
+de demander aux candidats concernés de compléter leur dossier de candidature. Les modalités seront indiquées dans
+le courrier de demande.
+Conformément à l’article R.2152-2 du Code de la commande publique, le ministère de la Justice se réserve la possibilité
+de demander la régularisation des offres irrégulières. Les modalités seront indiquées dans le courrier de demande de
+régularisation. La régularisation des offres irrégulières ne peut avoir pour effet de modifier les caractéristiques substan-
+tielles des offres.
+VI.1. EXAMEN DES CANDIDATURES
+Au vu des éléments produits au titre de la candidature, les candidats qui ne peuvent soumissionner à un marché en
+application des dispositions des articles L.2141-1 à L.2141-5 du code de la commande publique seront éliminés.
+Conformément aux articles L.2342-1, et R.2144-1 à 7 du Code de la commande publique, le pouvoir adjudicateur exami-
+nera l’aptitude des candidats à exercer l’activité professionnelle, et évaluera leurs capacités économiques et financières,
+techniques et professionnelles.
+VI.1.1. Niveau minimum de capacité financière :
+En application de l’article R.2142-6 du code de la commande publique, il est exigé des candidats un chiffre d’affaires
+minimal global annuel sur les trois derniers exercices. Aucune candidature ne pourra être retenue si l’exigence minimum
+suivante n’est pas respectée par les sociétés candidates :
+CHIFFRE D’AFFAIRES ANNUEL
+N° DU LOT INTITULES MINIMUM GLOBAL SUR LES 3
+DERNIERES ANNEES
+LOT N°1 Applications couvrant le périmètre fonctionnel de la détention 50 000 000 € HT
+LOT N°2 Applications couvrant le périmètre fonctionnel du suivi du détenu 25 000 000 € HT
+LOT N°3 Applications couvrant le périmètre fonctionnel de l’insertion 14 000 000 € HT
+VI.2. EXAMEN DES OFFRES
+Les offres inacceptables et/ou inappropriées sont éliminées conformément à l’article L.2152-1 et R.2152-1 du Code de la
+commande publique.
+Sur la base des dispositions de l’article R.2152-2 du code susvisé, l'Administration peut par ailleurs autoriser tous les
+candidats concernés à régulariser les offres qu'elle a qualifiées d'irrégulières dans un délai approprié. Cette régularisa-
+tion ne peut être effectuée qu'à condition que les offres ne soient pas anormalement basses et sous réserve de ne pas
+en modifier substantiellement les caractéristiques.
+VI.2.1. Critères d’attribution :
+Le classement des offres sera effectué conformément à la notation attribuée dans les conditions précisées ci-après,
+permettant de déterminer l’offre économiquement la plus avantageuse par rapport aux critères de choix suivants (le
+chiffre entre parenthèse indiquant la pondération) :
+p
+.
+14
+
+| N° DU LOT | INTITULES |  |  |  | CHIFFRE D’AFFAIRES ANNUEL |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | MINIMUM GLOBAL SUR LES 3 |  |
+|  |  |  |  |  | DERNIERES ANNEES |  |
+| LOT N°1 |  | Applications couvrant le périmètre fonctionnel de la détention |  | 50 000 000 € HT |  |  |
+| LOT N°2 |  | Applications couvrant le périmètre fonctionnel du suivi du détenu |  |  | 25 000 000 € HT |  |
+| LOT N°3 |  | Applications couvrant le périmètre fonctionnel de l’insertion |  |  | 14 000 000 € HT |  |
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 15
+1) La valeur technique et fonctionnelle de l'offre (70 %) :
+Le critère technique de niveau 1 est composé de critères de niveau 2, eux-mêmes composés de critères de niveau 3.
+Les pondérations respectives des critères de niveau 2 et de niveau 3 figurent dans le tableau en annexe 1 au présent
+document.
+2) Prix de l’offre (30 %) analysé sur la base des éléments du DQE :
+Le présent critère est analysé au travers du montant total des prestations du DQE.
+VI.2.2. Méthode d’analyse et de notation des offres
+- Valeur technique et fonctionnelle :
+L’appréciation technique des offres est quantifiée par l’attribution de notes chiffrées à chacun des critères techniques
+de niveau 2 et de niveau 3.
+La notation s’échelonne de 1 à 10 en fonction du niveau de satisfaction des offres :
+• 0 : irrecevable ;
+• 1 : insuffisant ;
+• 3 : partiellement suffisant ;
+• 7 : suffisant ;
+• 10 : bon.
+Les notes sont ensuite pondérées par application du coefficient de pondération.
+- Prix de l’offre :
+Le critère prix sera noté sur 10 de la manière suivante :
+Note du prix du candidat noté = (prix le plus bas/prix de l’offre examinée du candidat noté) X 10.
+Les notes sont ensuite pondérées par application du coefficient de pondération.
+VI.3 ATTRIBUTION DE L’ACCORD-CADRE, MISE AU POINT
+Au terme de la procédure, l’Administration peut :
+• soit choisir l’offre économiquement la plus avantageuse sur la base des critères figurant au point VI.2 ci-avant ;
+• soit déclarer la procédure sans suite dans les conditions définies à l'article R.2185-1 du code susvisé.
+Dans le premier cas, il doit être précisé que la société ayant transmis l’offre économiquement la plus avantageuse n’est
+déclarée attributaire qu'après qu'elle ait adressé, au plus tard dans le délai demandé par l’Administration, l'ensemble
+des attestations et certificats permettant de justifier que le candidat ne se trouve pas dans un cas d'interdiction de
+soumissionner conformément aux articles R.2144-3 et R.2144-4 du code susvisé (étant cependant précisé que les pièces
+prévues aux articles D. 8222-5 ou D. 8222-7 du code du travail doivent avoir moins de six mois, la règle introduite par
+l'article R.2144-3 du code susvisé trouve ici aussi à s'appliquer).
+Dans le cas où ces conditions ne seraient pas satisfaites dans les délais prescrits, le candidat dont l'offre a été classée
+immédiatement après la sienne est sollicité pour produire les mêmes éléments dans les mêmes délais avant que le mar-
+ché ne lui soit attribué.
+Si nécessaire, cette procédure peut être reproduite tant qu'il subsiste des offres qui n'ont pas été écartées au motif
+qu'elles sont inappropriées, irrégulières ou inacceptables.
+L'attribution donne lieu à une conclusion formelle sous réserve d’une circonstance de nature à l'en empêcher (refus
+d'une autorité de contrôle et recours contentieux notamment).
+p
+.
+15
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 16
+Par ailleurs, l’Administration se réserve la possibilité de demander la rematérialisation de l’offre du candidat pressenti
+lors de l’étape de signature des documents.
+VI.4. DECISION FINALE/INFORMATION DES CANDIDATS EVINCES
+Soit, conformément à la réglementation en vigueur, après avoir attribué l'accord-cadre à l'un ou à plusieurs des
+candidats, l'Administration :
+• informe par courrier les candidats non retenus dans les conditions définies à l'article R.2181-1 du code de la
+commande publique, des motifs de sa décision ;
+• publie, après la notification, les résultats de la consultation au bulletin officiel des annonces de marchés publics
+(BOAMP) et au journal officiel de l'Union européenne (JOUE), en indiquant notamment le nom du (des) titulaire(s) et
+le montant de l'accord-cadre.
+Soit, conformément à la réglementation en vigueur, après avoir déclaré la consultation sans suite, l’Administration :
+• Communique dans les plus brefs délais les motifs de sa décision de ne pas attribuer le marché ou de recommencer
+la procédure aux opérateurs économiques y ayant participé conformément à l’article R.2185-2 du code de la
+commande publique.
+VI.5. VOIES ET DELAIS DE RECOURS
+En cas de litige résultant du présent règlement de la consultation, le tribunal administratif compétent est le Tribunal
+administratif de Paris situé :
+7 Rue de Jouy, 75004 Paris.
+Téléphone : 01 44 59 44 00 Télécopie : 01 44 59 46 46.
+Courriel : greffe.ta-paris@juradm.fr
+Les voies de recours contre la présente procédure sont les suivantes :
+- un référé précontractuel depuis le début de la procédure de passation jusqu'à la signature du contrat, devant le juge
+des référés du tribunal administratif (CJA article L551-1 à L 551-4 et L551-10 à L 551-12) ;
+- un référé contractuel (CJA L551-13 à L 551-23 et R 551-7) dans un délai de 31 jours suivant la date de publication de l'avis
+d'attribution, ou pendant six mois à compter du lendemain de la date d'attribution du marché si aucun avis d'attribution
+n'a été publié ;
+- un recours pour excès de pouvoir devant le Tribunal Administratif, dans un délai de deux mois à compter de la
+publication ou de la notification de la décision ou de l'acte attaqué (CJA article R 421-1) ;
+- un recours de pleine juridiction dans un délai de deux mois à compter de l'accomplissement des mesures de publicité
+mentionnant la conclusion du contrat et les modalités de sa consultation (CE, n°358994 du 4 avril 2014, Département
+du Tarn et-Garonne). Dans le cadre de ce recours, la requête peut être accompagnée d’une demande tendant à la
+suspension de l’exécution du contrat. Pour que cette demande soit recevable, les conditions strictes du référé suspension
+doivent être réunies (urgence et doute sérieux).
+p
+.
+16
+
+Ministère de Secrétariat Général
+la Justice Direction du numérique p. 17
+Qualité des
+Moyens tech- Méthode - Format des Moyens humains
+Critères techniques de niveau 2 Pondération engagements
+niques Démarche outils - organisation
+de service
+Prestations d'entrée 5% 30% 20% 40% 10%
+Maintien en condition opérationnelle 15% 30% 20% 40% 10%
+Sécurité 5% 60% 10% 20% 10%
+Prestations préalables à la réalisation 5% 30% 20% 40% 10%
+Migration, reprise des données 5% 30% 20% 40% 10%
+Développements en cycle en V 10% 20% 10% 30% 40%
+Développements en approche agile 20% 20% 10% 30% 40%
+Obligations transverses 10% 40% 10% 40% 10%
+Prestations d'assistance 5% 30% 20% 40% 10%
+Outils et environnements 5% 90% 10%
+Gouvernance et politiques de qualité 5% 90% 10%
+Adéquation et disponibilité des ressources humaines 5% 20% 50% 30%
+Prestations de sortie 5% 30% 20% 40% 10%
+Total 100%
+p
+.
+17
+
+| Critères techniques de niveau 2 | Pondération | Moyens tech- niques | Méthode - Démarche | Format des outils | Moyens humains - organisation | Qualité des engagements de service |
+| --- | --- | --- | --- | --- | --- | --- |
+| Prestations d'entrée | 5% | 30% | 20% |  | 40% | 10% |
+| Maintien en condition opérationnelle | 15% | 30% | 20% |  | 40% | 10% |
+| Sécurité | 5% | 60% | 10% |  | 20% | 10% |
+| Prestations préalables à la réalisation | 5% | 30% | 20% |  | 40% | 10% |
+| Migration, reprise des données | 5% | 30% | 20% |  | 40% | 10% |
+| Développements en cycle en V | 10% | 20% | 10% |  | 30% | 40% |
+| Développements en approche agile | 20% | 20% | 10% |  | 30% | 40% |
+| Obligations transverses | 10% | 40% | 10% |  | 40% | 10% |
+| Prestations d'assistance | 5% | 30% | 20% |  | 40% | 10% |
+| Outils et environnements | 5% |  |  | 90% |  | 10% |
+| Gouvernance et politiques de qualité | 5% |  | 90% |  |  | 10% |
+| Adéquation et disponibilité des ressources humaines | 5% |  | 20% |  | 50% | 30% |
+| Prestations de sortie | 5% | 30% | 20% |  | 40% | 10% |
+| Total | 100% |  |  |  |  |  |
+
+| Qualité des |
+| --- |
+| engagements |
+
+| Moyens tech- |
+| --- |
+| niques |
+
+| Méthode - |
+| --- |
+| Démarche |
+
+| Format des |
+| --- |
+| outils |
+
+| Moyens humains |
+| --- |
+| - organisation |
+

@@ -1,0 +1,1929 @@
+Direction des achats de l’Etat
+ACCORD-CADRE INTERMINISTERIEL
+PRESTATIONS D’ACCOMPAGNEMENT DE LA MAÎTRISE D’OUVRAGE A LA TRANSFORMATION
+NUMERIQUE
+REGLEMENT DE LA CONSULTATION
+Numéro de consultation : DAE-AMOA-2025
+Procédure de passation : Appel d’offres ouvert passé en application des articles L2124-2 et R2124-2 du
+code de la commande publique
+Date limite de remise des offres : mercredi 11 juin 2025 à 14h00
+RC – DAE-AMOA-2025 Page 1 sur 35
+
+Table des matières
+ARTICLE 1 – ACHETEUR .................................................................................................................................. 4
+ARTICLE 2 – OBJET DE LA CONSULTATION ................................................................................................ 4
+ARTICLE 3 – PERIMETRE DE LA CONSULTATION ....................................................................................... 4
+ARTICLE 4 – CONDITIONS DE LA CONSULTATION ................................................................................... 5
+4.1 Procédure de passation .......................................................................................................................................... 5
+4.2 Allotissement ........................................................................................................................................................... 5
+4.3 Forme et étendue de l’accord-cadre ..................................................................................................................... 6
+4.4 Durée de l’accord-cadre ......................................................................................................................................... 7
+4.5 Lieu d'exécution ...................................................................................................................................................... 8
+4.6 Variantes ................................................................................................................................................................... 8
+4.6.1 Variantes obligatoires ............................................................................................................................... 8
+4.6.2 Variantes facultatives ............................................................................................................................... 8
+4.7 Prestations supplémentaires éventuelles .............................................................................................................. 8
+4.8 Clause d’insertion par l’activité économique ....................................................................................................... 8
+4.9 Considérations environnementales ....................................................................................................................... 9
+4.10 Traitement des données à caractère personnel ............................................................................................... 9
+ARTICLE 5 – INFORMATION DES CANDIDATS ......................................................................................... 10
+5.1 Contenu des documents de la consultation
+10
+5.2 Principes généraux sur les échanges électroniques
+11
+5.2.1 Modalités de retrait et de consultation des documents ..................................................................... 11
+5.2.2 Conditions de transmission des plis ..................................................................................................... 11
+5.3 Echanges électroniques relatifs à la présente consultation
+15
+5.3.1 Date et heure de réception des plis ...................................................................................................... 15
+5.3.2 Demandes de renseignements complémentaires et questions ......................................................... 16
+5.3.3 Modification des documents de la consultation ................................................................................. 16
+5.3.4 Prolongation du délai de réception des offres .................................................................................... 16
+ARTICLE 6 - CANDIDATURE ......................................................................................................................... 17
+# 6.1 Précisions sur les groupements d'opérateurs économiques et la sous-traitance
+.............................................................................................................................................................................................. 1
+7
+# 6.2 Motifs d'exclusion
+.............................................................................................................................................................................................. 1
+7
+# 6.3 Présentation de la candidature
+.............................................................................................................................................................................................. 1
+8
+6.3.1 Candidature sous forme de DUME ........................................................................................................ 19
+6.3.2 Candidature sous forme de DC1 et DC2 .............................................................................................. 19
+6.4 Niveaux minimaux de participation
+20
+6.5 Tâches essentielles
+20
+RC – DAE-AMOA-2025 Page 2 sur 35
+
+6.6 Examen des candidatures
+21
+6.7 Vérification des conditions de participation : liste des documents justificatifs
+21
+6.8 Vérification des motifs d'exclusion
+22
+ARTICLE 7 – OFFRE ........................................................................................................................................ 22
+# 7.1 Présentation de l'offre
+.............................................................................................................................................................................................. 2
+2
+7.2 Examen des offres
+23
+7.3 Critères d'attribution
+23
+7.4 Méthode de notation des offres
+25
+7.5 Durée de validité des offres
+29
+ARTICLE 8 – ATTRIBUTION DE L’ACCORD-CADRE .................................................................................. 29
+8.1 Vérification des motifs d'exclusion : transmission des moyens de preuve
+30
+8.2 Interdiction d'attribution
+32
+8.3 Mise au point
+32
+8.4 Signature
+32
+ARTICLE 9 - LANGUE ..................................................................................................................................... 33
+ARTICLE 10 - CONTENTIEUX ....................................................................................................................... 33
+ARTICLE 11 – MODALITES DE SIGNATURE ELECTRONIQUE ................................................................... 33
+ARTICLE 12 – AMENAGEMENT EN CAS DE MENACE SANITAIRE GRAVE APPELANT DES MESURES
+D’URGENCE .................................................................................................................................................... 35
+ARTICLE 13 – ANNEXES ................................................................................................................................ 35
+RC – DAE-AMOA-2025 Page 3 sur 35
+
+ARTICLE 1 – ACHETEUR
+L'acheteur du présent accord-cadre est :
+L'État,
+Ministère de l'Économie, des Finances, de la Souveraineté Industrielle et Numérique
+Direction des achats de l'État
+59, boulevard Vincent Auriol 75703 PARIS Cedex 13
+Tél. : 01 44 97 34 61
+Il est représenté par le Directeur des achats de l’Etat, ou l’une des autorités bénéficiant d’une
+délégation de signature à cet effet en application de l’arrêté du 22 novembre 2024 portant délégation
+de signature (direction des achats de l'Etat).
+Le présent document est commun à l'ensemble des lots.
+# ARTICLE 2 – OBJET DE LA CONSULTATION
+Le présent accord-cadre a pour objet des prestations d’accompagnement de la maîtrise d’ouvrage à
+la transformation numérique.
+Il vise à procurer aux bénéficiaires un support contractuel leur permettant d’accéder à des prestations
+d’accompagnement de la maîtrise d’ouvrage à la transformation numérique pour leurs projets
+informatiques et produits digitaux.
+L'accord-cadre porte sur des prestations de services
+Codes CPV de la consultation :
+• 72220000 – Services de conseil en systèmes informatiques et conseils techniques
+• 72224000 – Services de conseil en gestion de projet
+• 72246000 – Services de conseil en systèmes informatiques
+# ARTICLE 3 – PERIMETRE DE LA CONSULTATION
+Les bénéficiaires de l’accord-cadre sont les services centraux et déconcentrés de l’État et les
+établissements publics et organismes (membres du groupement de commandes) listés en annexe 1 du
+présent CCAP.
+RC – DAE-AMOA-2025 Page 4 sur 35
+
+| 72220000 – Services de conseil en systèmes informatiques et conseils techniques |
+| --- |
+| 72224000 – Services de conseil en gestion de projet |
+| 72246000 – Services de conseil en systèmes informatiques |
+
+Une convention constitutive d'un groupement de commandes permanent a été conclue entre
+l’acheteur et des établissements publics et autres organismes conformément à l'article L. 2113-7 du
+code de la commande publique. Les bénéficiaires sont chargés de la passation des marchés
+subséquents (lot n°4 et 7) et de l’émission des bons de commandes (lots n°1, 2, 3, 5 et 6) et de leur
+exécution.
+Les bénéficiaires sont également responsables pour les marchés subséquents des tâches suivantes :
+acceptation de sous-traitant et agrément des conditions de paiement, suivi des prestations,
+application des pénalités.
+Une convention constitutive d'un groupement de commandes permanent a été conclue entre la DAE
+et des établissements publics et autres organismes conformément à l'article L. 2113-7 du code de la
+commande publique.
+# ARTICLE 4 – CONDITIONS DE LA CONSULTATION
+# 4.1 Procédure de passation
+L'accord-cadre est passé selon la procédure d'appel d'offres ouvert.
+Aucune négociation ne sera possible dans le cadre de cette procédure.
+# 4.2 Allotissement
+Les prestations sont alloties de la manière suivante :
+N° Intitulés des lots
+1 Réalisation d’études et d’audits
+2 Accompagnement à la conduite du changement – inférieur ou égal à 500 000€ HT1
+3 Accompagnement dans la conception de projets et le suivi du support utilisateurs
+– inférieurs ou égal à 500 000€ HT1
+4 Prestations d’assistance à maîtrise d’ouvrage de projets/ produits digitaux –
+supérieur à 500 000€ HT1
+1 Se référer à l’article 3.8 du CCAP pour le seuil
+RC – DAE-AMOA-2025 Page 5 sur 35
+
+| L'accord-cadre est passé selon la procédure d'appel d'offres ouvert. |
+| --- |
+| Aucune négociation ne sera possible dans le cadre de cette procédure. |
+
+| N° | Intitulés des lots |
+| --- | --- |
+| 1 | Réalisation d’études et d’audits |
+| 2 | Accompagnement à la conduite du changement – inférieur ou égal à 500 000€ HT1 |
+| 3 | Accompagnement dans la conception de projets et le suivi du support utilisateurs – inférieurs ou égal à 500 000€ HT1 |
+| 4 | Prestations d’assistance à maîtrise d’ouvrage de projets/ produits digitaux – supérieur à 500 000€ HT1 |
+
+5 Accompagnement à la tierce recette applicative fonctionnelle – inférieur ou égal à
+500 000€ HT1
+6 Accompagnement à la préparation et à la passation de marchés de prestations
+intellectuelles informatiques
+7 Services d’intermédiation pour la mise à disposition d’expertises rares et/ou
+spécifiques en mode Agile dans la conception de produits digitaux
+Les règles de soumission sont les suivantes :
+• Lots 1, 2, 3 :
+➢ les soumissionnaires peuvent déposer une offre pour chacun de ces lots mais ils ne
+peuvent être attributaires que d’un seul de ces trois lots;
+➢ Si le soumissionnaire présente une offre sur au-moins deux de ces trois lots, il
+précise, dans l'annexe 1 au règlement de la consultation (annexe 1 : Ordre de
+préférence d'attribution des lots), son ordre de préférence d'attribution entre les
+lots 1, 2 et 3.
+➢ Cette annexe est remise dûment complétée au moment du dépôt de l'offre.
+• Lots 4 et 5 : les soumissionnaires sont libres de déposer une offre et d’être attributaires de
+chacun de ces deux lots ainsi que de l’un des lots 1, 2 ou 3.
+• Lot 6 : les soumissionnaires ne peuvent déposer d’offre pour aucun autre lot.
+• Lot 7 : les soumissionnaires ne peuvent déposer d’offre pour aucun autre lot.
+# 4.3 Forme et étendue de l’accord-cadre
+L’accord-cadre s’exécute :
+- A bons de commande pour les lots n°1, 2, 3, 5, 6 et 7 ;
+- A marchés subséquents pour le lot n°4.
+L’accord-cadre est :
+- Mono-attributaire pour le lot n°7 ;
+- Multi-attributaire pour les lots n°1, 2, 3, 4, 5 et 6
+L'accord-cadre est conclu sans minimum et avec un maximum de 700 millions d’euros HT sur la durée
+totale de l’accord-cadre, reconductions comprises. Ce montant maximal correspond au montant
+1 Se référer à l’article 3.8 du CCAP pour le seuil
+RC – DAE-AMOA-2025 Page 6 sur 35
+
+| 6 | Accompagnement à la préparation et à la passation de marchés de prestations intellectuelles informatiques |
+| --- | --- |
+| 7 | Services d’intermédiation pour la mise à disposition d’expertises rares et/ou spécifiques en mode Agile dans la conception de produits digitaux |
+
+estimatif (non engageant) mentionné dans l'avis d'appel à la concurrence, multiplié par un coefficient
+de 1,5.
+Détail des lots :
+N° Modalités Forme des Nombre Montant estimatif de Montant maximum de
+d’exécution lots d’attributaires l’accord-cadre (en € l’accord-cadre (en € HT)
+des lots maximum HT)
+1 bons de Multi-
+2 97 500 000€
+65 000 000€
+commande attributaire
+2 bons de Multi-
+2 40 000 000€ 60 000 000€
+commande attributaire
+3 bons de Multi-
+2 40 000 000€ 60 000 000€
+commande attributaire
+4 marchés Multi-
+5 230 000 000€ 347 500 000€
+subséquents attributaire
+5 bons de Multi-
+2 40 000 000€ 60 000 000€
+commande attributaire
+6 bons de Multi-
+2 20 000 000€ 30 000 000€
+commande attributaire
+7 bons de Mono-
+1 30 000 000€ 45 000 000€
+commande attributaire
+Total 465 000 000€ 700 000 000€
+Chaque lot du présent accord-cadre cessera automatiquement de produire ses effets lorsque le
+montant maximum correspondant au lot aura été atteint, quelle que soit la durée du lot prévue
+initialement par l'acheteur.
+Il est précisé que la mention d’un montant maximum a pour objet d’assurer la conformité du présent
+accord-cadre à la jurisprudence de la Cour de justice de l’Union européenne, transposée à l’article R.
+2162-4 du code de la commande publique.
+# 4.4 Durée de l’accord-cadre
+Chaque lot de l’accord-cadre est conclu pour une durée ferme de 24 mois sans que leur durée ne
+puisse excéder 48 mois.
+RC – DAE-AMOA-2025 Page 7 sur 35
+
+| N° | Modalités d’exécution des lots | Forme des lots | Nombre d’attributaires maximum | Montant estimatif de l’accord-cadre (en € HT) | Montant maximum de l’accord-cadre (en € HT) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 1 | bons de commande | Multi- attributaire | 2 | 65 000 000€ | 97 500 000€ |
+| 2 | bons de commande | Multi- attributaire | 2 | 40 000 000€ | 60 000 000€ |
+| 3 | bons de commande | Multi- attributaire | 2 | 40 000 000€ | 60 000 000€ |
+| 4 | marchés subséquents | Multi- attributaire | 5 | 230 000 000€ | 347 500 000€ |
+| 5 | bons de commande | Multi- attributaire | 2 | 40 000 000€ | 60 000 000€ |
+| 6 | bons de commande | Multi- attributaire | 2 | 20 000 000€ | 30 000 000€ |
+| 7 | bons de commande | Mono- attributaire | 1 | 30 000 000€ | 45 000 000€ |
+| Total |  |  |  | 465 000 000€ | 700 000 000€ |
+
+Chaque lot de l’accord-cadre est reconductible tacitement deux (2) fois pour une période de douze
+(12) mois.
+La durée de l'accord-cadre court à compter de sa date de notification.
+# 4.5 Lieu d'exécution
+Le lieu d'exécution est la France métropolitaine hors Corse, dont :
+- 80 % des prestations sont réalisées en Ile-de-France ;
+- 20 % des prestations sont réalisées en province.
+Ces pourcentages sont donnés à titre indicatif, la répartition peut être sujette à variation durant la vie
+de l'accord-cadre.
+# 4.6 Variantes
+# 4.6.1 Variantes obligatoires
+L'acheteur n'exige pas la présentation de variantes obligatoires.
+# 4.6.2 Variantes facultatives
+Les soumissionnaires ne sont pas autorisés à présenter de variantes à leur initiative.
+# 4.7 Prestations supplémentaires éventuelles
+Aucune prestation supplémentaire éventuelle n'est prévue.
+# 4.8 Clause d’insertion par l’activité économique
+Pour promouvoir l’emploi et combattre l’exclusion, le pouvoir adjudicateur a décidé de faire
+application des dispositions de l’article L.2112-2 du Code de la commande publique incluant dans le
+cahier des charges de la présente consultation une clause obligatoire d’insertion par l’activité
+économique.
+Sur la durée de l’exécution du marché, l’entreprise titulaire devra réaliser une action d’insertion qui
+permette l’accès ou le retour à l’emploi de personnes rencontrant des difficultés sociales ou
+professionnelles particulières.
+Pour faciliter la mise en œuvre de la clause d'insertion, le pouvoir adjudicateur a mis en place un
+dispositif d’accompagnement mis en œuvre par
+RC – DAE-AMOA-2025 Page 8 sur 35
+
+|  |
+| --- |
+| Pour promouvoir l’emploi et combattre l’exclusion, le pouvoir adjudicateur a décidé de faire |
+| application des dispositions de l’article L.2112-2 du Code de la commande publique incluant dans le |
+| cahier des charges de la présente consultation une clause obligatoire d’insertion par l’activité |
+| économique. |
+|  |
+| Sur la durée de l’exécution du marché, l’entreprise titulaire devra réaliser une action d’insertion qui |
+| permette l’accès ou le retour à l’emploi de personnes rencontrant des difficultés sociales ou |
+| professionnelles particulières. |
+
+Ensemble Paris Emploi Compétences
+18 rue Goubet
+75019 Paris
+Les candidats ne sont pas autorisés à formuler de réserve dans leur offre sur la clause obligatoire
+d’insertion par l’activité économique.
+Une offre qui ne satisferait pas à cette condition d’exécution sera déclarée irrégulière au motif de non-
+respect du cahier des charges.
+# 4.9 Considérations environnementales
+Dans une volonté de protection de l'environnement, il est fait application de l'article R.2111-10 du code
+de la commande publique dans le présent accord-cadre en prévoyant :
+• Des spécifications techniques à caractère environnemental (cf. Lot2-UO2 du CCTP) ;
+• des conditions d'exécution des prestations comportant des éléments à caractère
+environnemental (cf. article 8 du CCAP) ;
+• des critères d'attribution.
+# 4.10 Traitement des données à caractère personnel
+Protection des données à caractère personnel des candidats à la présente procédure :
+En application de l'article 13 du règlement (UE) 2016/679 du Parlement européen et du Conseil du
+27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à
+caractère personnel et à la libre circulation de ces données (RGPD), les candidats sont informés que
+des données à caractère personnel (notamment nom, prénom, adresse mail, données de connexion)
+collectées dans le cadre de la présente procédure de passation et dans le cadre de l'exécution du
+présent accord-cadre sont susceptibles de faire l'objet de traitement(s).
+Identité et coordonnées du responsable de traitement et de son représentant :
+La Direction des achats de l'Etat du Ministère de l'Economie, des Finances et de la Souveraineté
+industrielle et numérique
+59, boulevard Vincent Auriol 75703 Paris Cedex 13
+Représentée par le Directeur des achats de l'Etat
+Responsable de Traitement Opérationnel (RTO) :
+La Direction des achats de l'Etat,
+Représentée par le Directeur des achats de l'Etat
+RC – DAE-AMOA-2025 Page 9 sur 35
+
+| Dans une volonté de protection de l'environnement, il est fait application de l'article R.2111-10 du code |
+| --- |
+| de la commande publique dans le présent accord-cadre en prévoyant : |
+
+| Des spécifications techniques à caractère environnemental (cf. Lot2-UO2 du CCTP) ; |
+| --- |
+| des conditions d'exécution des prestations comportant des éléments à caractère |
+| environnemental (cf. article 8 du CCAP) ; |
+| des critères d'attribution. |
+
+Coordonnées du délégué à la protection des données :
+le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr
+Base juridique du traitement : c) et e) de l'article 6.1 du RGPD
+Finalité du ou des traitements : suivi de la présente procédure de passation, attribution du marché
+public et obligations légales en matière de durée d'utilité administrative (DUA) applicable aux marchés
+publics.
+Destinataires ou catégorie de destinataires : les données à caractère personnel concernées sont
+destinées exclusivement aux agents de l'Acheteur, des ministères et des opérateurs de l'Etat, en charge
+de la passation puis de l'exécution du présent contrat.
+Durée de conservation : ces données sont conservées pendant toute la durée de passation et
+d'exécution du contrat ainsi que durant la DUA applicable au contrat.
+Conformément aux dispositions des articles 15 à 21 du RGPD, les personnes dont les données à
+caractère personnel sont collectées disposent notamment d'un droit d'accès, de rectification et
+d'effacement à ces informations qui les concernent. Elles peuvent également s'opposer au traitement
+de ces données. L'exercice des droits d'information et d'accès aux données à caractère personnel
+peut être effectué auprès du délégué à la protection des données.
+La personne dont les données à caractère personnel sont collectées dans le cadre de la présente
+procédure dispose d'un droit de réclamation auprès de la CNIL.
+# ARTICLE 5 – INFORMATION DES CANDIDATS
+5.1 Contenu des documents de la consultation
+Les documents de la consultation mis à disposition sont les suivants :
+00. Le présent règlement de consultation (RC) et ses annexes :
+o Annexe 1 : ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3)
+o Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant
+des difficultés sociales ou professionnelles particulières
+01. l'acte d'engagement de chacun des lots (ATTRI1) et ses annexes :
+• Annexe 1 : bordereau des prix unitaires (BPU) du lot considéré :
+➢ Lot 1 : bordereau de prix unitaires (BPU) ;
+➢ Lot 2 : bordereau de prix unitaires (BPU) ;
+➢ Lot 3 : bordereau de prix unitaires (BPU) ;
+➢ Lot 4 : taux journaliers moyens (TJM) plafonds ;
+RC – DAE-AMOA-2025 Page 10 sur 35
+
+| Annexe 1 : ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3) |
+| --- |
+| Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant |
+| des difficultés sociales ou professionnelles particulières |
+
+➢ Lot 5 : bordereau de prix unitaires (BPU) ;
+➢ Lot 6 : bordereau de prix unitaires (BPU) ;
+➢ Lot 7 : pourcentages (%) fixes.
+• Annexe 2 : engagement d’exécution de la clause sociale du lot considéré ;
+• Annexe 3 : interlocuteur référent du lot considéré.
+02. le cahier des clauses administratives particulières (CCAP) et ses annexes :
+• Annexe 1 : Liste des bénéficiaires de l’accord-cadre ;
+• Annexe 2 : Déclaration de conflit d’intérêts (lots à BdC) ;
+03. le cahier des clauses techniques particulières (CCTP) et son annexe :
+• Annexe 1 : Fiche d’évaluation des prestations (lots à BdC).
+04. le cadre de réponse technique et environnemental (CRT) pour chacun des lots ;
+05. un acte spécial de sous-traitance pré-rempli à compléter le cas échéant ;
+06. les formulaires DC1 et DC2 pré-remplis à compléter le cas échéant.
+5.2 Principes généraux sur les échanges électroniques
+# 5.2.1 Modalités de retrait et de consultation des documents
+Les documents de la consultation sont accessibles uniquement par voie électronique, sur la plate-
+forme des achats de l'Etat (PLACE) (https://www.marches-publics.gouv.fr).
+# 5.2.2 Conditions de transmission des plis
+Pour cette consultation, seuls sont autorisés les dépôts électroniques à l'adresse suivante :
+https://www.marches-publics.gouv.fr
+En application de l'article R2151-6 du Code de la commande publique, le soumissionnaire transmet
+son offre en une seule fois. En cas d'envois successifs, seul le dernier envoi réceptionné avant la date
+limite de remise des plis est admis.
+Chaque pli est considéré comme une offre. Dès lors, si le soumissionnaire est amené à compléter sa
+candidature et/ou son offre avant la date limite de remise des plis, il devra procéder à un nouvel envoi
+intégral comprenant l'ensemble des pièces exigées aux titres de l'offre ou de candidature.
+Les plis antérieurs seront rejetés sans être examinés. Aucun envoi papier, par télécopie ou courriel ne
+sera accepté.
+Le dépôt électronique des plis s'effectue exclusivement sur la plate-forme "PLACE" :
+https://www.marches-publics.gouv.fr
+RC – DAE-AMOA-2025 Page 11 sur 35
+
+| Les documents de la consultation sont accessibles uniquement par voie électronique, sur la plate- |
+| --- |
+| forme des achats de l'Etat (PLACE) (https://www.marches-publics.gouv.fr). |
+
+| Pour cette consultation, seuls sont autorisés les dépôts électroniques à l'adresse suivante : |
+| --- |
+| https://www.marches-publics.gouv.fr |
+
+| En application de l'article R2151-6 du Code de la commande publique, le soumissionnaire transmet |
+| --- |
+| son offre en une seule fois. En cas d'envois successifs, seul le dernier envoi réceptionné avant la date |
+| limite de remise des plis est admis. |
+
+| Chaque pli est considéré comme une offre. Dès lors, si le soumissionnaire est amené à compléter sa |
+| --- |
+| candidature et/ou son offre avant la date limite de remise des plis, il devra procéder à un nouvel envoi |
+| intégral comprenant l'ensemble des pièces exigées aux titres de l'offre ou de candidature. |
+| Les plis antérieurs seront rejetés sans être examinés. Aucun envoi papier, par télécopie ou courriel ne |
+| sera accepté. |
+
+| Le dépôt électronique des plis s'effectue exclusivement sur la plate-forme "PLACE" : |
+| --- |
+| https://www.marches-publics.gouv.fr |
+
+Dans le cadre de la présente consultation, l'acheteur impose le dépôt d'un pli par lot. Il est rappelé
+que chaque lot représente un marché. Dès lors, le principe selon lequel seul le dernier pli est ouvert
+en cas de dépôt successif ne s'applique qu'aux plis portant sur un même lot.
+Le dépôt s'effectue uniquement en utilisant la fonctionnalité de dépôt de plis de la plate-forme. Pour
+ce faire :
+- Le candidat accède à la consultation avec le bouton « Accéder à cette consultation » depuis
+la colonne « Actions » du tableau de bord ;
+- Puis, le candidat doit sélectionner l'onglet « Dépôt ».
+La fonctionnalité de « Messagerie sécurisée » de PLACE ne doit pas être utilisée par le candidat pour
+déposer son pli. Celle-ci est réservée aux échanges et autres questions avec l'acheteur avant la date
+limite de remise des offres.
+Les frais d'accès au réseau et de recours à la signature électronique sont à la charge de chaque
+candidat/soumissionnaire.
+Les candidats ou les soumissionnaires trouveront dans la rubrique « aide » de PLACE plusieurs
+documents et informations :
+- guide utilisateur téléchargeable, précisant les conditions d'utilisations de la plate-forme des
+achats de l'État, notamment les pré-requis techniques et certificats électroniques ;
+- mode opératoire DUME pour les opérateurs ;
+- assistance téléphonique ;
+- module d'autoformation à destination des opérateurs ;
+- foire aux questions ;
+- lien vers des documents de référence ;
+- outils informatiques.
+Les candidats ou les soumissionnaires sont invités à tester la configuration de leur poste de travail et
+répondre à une consultation test, afin de s'assurer du bon fonctionnement de l'environnement
+informatique.
+Ils doivent également prévoir le temps nécessaire pour que le dépôt soit effectif dans le délai fixé par
+l'acheteur, notamment lorsque les fichiers sont volumineux et/ou si le réseau à un faible débit.
+Attention, les plis dont le téléchargement a commencé avant la date et l'heure limite mais s'est achevé
+hors délai sont éliminés par l'acheteur.
+Par ailleurs, la plate-forme déconnecte automatiquement l'utilisateur en cas d'inactivité supérieure à
+trente minutes.
+RC – DAE-AMOA-2025 Page 12 sur 35
+
+| Dans le cadre de la présente consultation, l'acheteur impose le dépôt d'un pli par lot. Il est rappelé |
+| --- |
+| que chaque lot représente un marché. Dès lors, le principe selon lequel seul le dernier pli est ouvert |
+| en cas de dépôt successif ne s'applique qu'aux plis portant sur un même lot. |
+
+| Le dépôt s'effectue uniquement en utilisant la fonctionnalité de dépôt de plis de la plate-forme. Pour |
+| --- |
+| ce faire : |
+
+| Le candidat accède à la consultation avec le bouton « Accéder à cette consultation » depuis |
+| --- |
+| la colonne « Actions » du tableau de bord ; |
+| Puis, le candidat doit sélectionner l'onglet « Dépôt ». |
+
+| La fonctionnalité de « Messagerie sécurisée » de PLACE ne doit pas être utilisée par le candidat pour |
+| --- |
+| déposer son pli. Celle-ci est réservée aux échanges et autres questions avec l'acheteur avant la date |
+
+| Les frais d'accès au réseau et de recours à la signature électronique sont à la charge de chaque |
+| --- |
+| candidat/soumissionnaire. |
+
+| Les candidats ou les soumissionnaires trouveront dans la rubrique « aide » de PLACE plusieurs |
+| --- |
+| documents et informations |
+
+| guide utilisateur téléchargeable, précisant les conditions d'utilisations de la plate-forme des |
+| --- |
+| achats de l'État, notamment les pré-requis techniques et certificats électroniques ; |
+| mode opératoire DUME pour les opérateurs ; |
+| assistance téléphonique ; |
+| module d'autoformation à destination des opérateurs ; |
+| foire aux questions ; |
+| lien vers des documents de référence ; |
+| outils informatiques. |
+
+| Les candidats ou les soumissionnaires sont invités à tester la configuration de leur poste de travail et |
+| --- |
+| répondre à une consultation test, afin de s'assurer du bon fonctionnement de l'environnement |
+| informatique. |
+
+| Ils doivent également prévoir le temps nécessaire pour que le dépôt soit effectif dans le délai fixé par |
+| --- |
+| l'acheteur, notamment lorsque les fichiers sont volumineux et/ou si le réseau à un faible débit. |
+| Attention, les plis dont le téléchargement a commencé avant la date et l'heure limite mais s'est achevé |
+| hors délai sont éliminés par l'acheteur. |
+
+| Par ailleurs, la plate-forme déconnecte automatiquement l'utilisateur en cas d'inactivité supérieure à |
+| --- |
+| trente minutes. |
+
+Les candidats ou les soumissionnaires ont la possibilité de poser des questions sur les documents de
+la consultation.
+Après le dépôt du pli sur la plate-forme, un message indique que l'opération de dépôt du pli a été
+réalisée avec succès, puis un accusé de réception est adressé au candidat/soumissionnaire par courrier
+électronique donnant à son dépôt une date et une heure certaines, la date et l'heure de fin de
+réception faisant référence.
+L'absence de message de confirmation de bonne réception ou d'accusé de réception électronique
+signifie que la réponse n'est pas parvenue à l'acheteur.
+L'opérateur économique s'assure que les messages envoyés par la Plate-forme des achats de l'État
+(PLACE) notamment, nepasrepondre@marches-publics.gouv.fr , ne sont pas traités comme des
+courriels indésirables.
+Présentation des dossiers et format des fichiers
+Les formats acceptés sont les suivants : .pdf, .doc, .xls, .ppt, .odt , .ods, .odp, ainsi que les formats
+images .jpg, .png et les documents au format .html.
+Le candidat ou le soumissionnaire ne doit pas utiliser de code actif dans sa réponse, tels que :
+- Formats exécutables, notamment : .exe, .com, .scr ;
+- Macros ;
+- ActiveX, Applets, scripts
+La taille de chaque fichier déposé par les entreprises ne peut excéder 1 Go.
+Horodatage
+Les plis (candidatures et/ou offres) transmis par voie électronique sont horodatés. Les plis reçus après
+la date et l'heure limite fixées par la présente consultation sont considérés comme hors délai et sont
+rejetés.
+En cas d'indisponibilité de la plate-forme, la date et l'heure limite de remise des plis peuvent être
+modifiées.
+Copie de sauvegarde papier / physique électronique
+Le candidat ou le soumissionnaire peut faire parvenir une copie de sauvegarde dans les délais impartis
+pour la remise des candidatures ou des offres.
+Cette copie de sauvegarde, transmise à l'acheteur sur support papier ou sur support physique
+électronique doit être placée dans un pli comportant les mentions suivantes :
+RC – DAE-AMOA-2025 Page 13 sur 35
+
+| Les candidats ou les soumissionnaires ont la possibilité de poser des questions sur les documents de |
+| --- |
+| la consultation. |
+
+| Après le dépôt du pli sur la plate-forme, un message indique que l'opération de dépôt du pli a été |
+| --- |
+| réalisée avec succès, puis un accusé de réception est adressé au candidat/soumissionnaire par courrier |
+| électronique donnant à son dépôt une date et une heure certaines, la date et l'heure de fin de |
+| réception faisant référence. |
+
+| L'absence de message de confirmation de bonne réception ou d'accusé de réception électronique |
+| --- |
+| signifie que la réponse n'est pas parvenue à l'acheteur. |
+
+| L'opérateur économique s'assure que les messages envoyés par la Plate-forme des achats de l'État |
+| --- |
+| (PLACE) notamment, nepasrepondre@marches-publics.gouv.fr , ne sont pas traités comme des |
+| courriels indésirables. |
+
+| Les formats acceptés sont les suivants : .pdf, .doc, .xls, .ppt, .odt , .ods, .odp, ainsi que les formats |
+| --- |
+| images .jpg, .png et les documents au format .html. |
+
+| Formats exécutables, notamment : .exe, .com, .scr ; |
+| --- |
+| Macros ; |
+| ActiveX, Applets, scripts |
+
+| Les plis (candidatures et/ou offres) transmis par voie électronique sont horodatés. Les plis reçus après |
+| --- |
+| la date et l'heure limite fixées par la présente consultation sont considérés comme hors délai et sont |
+| rejetés. |
+| En cas d'indisponibilité de la plate-forme, la date et l'heure limite de remise des plis peuvent être |
+| modifiées. |
+
+| Le candidat ou le soumissionnaire peut faire parvenir une copie de sauvegarde dans les délais impartis |
+| --- |
+| pour la remise des candidatures ou des offres. |
+
+| Cette copie de sauvegarde, transmise à l'acheteur sur support papier ou sur support physique |
+| --- |
+| électronique doit être placée dans un pli comportant les mentions suivantes : |
+
+- « Copie de sauvegarde » ;
+- Intitulé de la consultation ;
+- Nom ou dénomination du candidat.
+La copie de sauvegarde ne peut être ouverte que dans les deux cas suivants :
+- en cas de détection d'un programme informatique malveillant dans les candidatures ou les
+offres transmises par voie électronique ;
+- en cas de candidature ou d'offre électronique reçue de façon incomplète, hors délais ou
+n'ayant pu être ouverte, sous réserve que la transmission de la candidature ou de l'offre
+électronique ait commencé avant la clôture de la remise des candidatures ou des offres.
+Si un programme informatique malveillant est détecté, la copie de sauvegarde est écartée par
+l'acheteur.
+La copie de sauvegarde ouverte est conservée en cas d'ouverture conformément aux dispositions des
+articles R.2184-12 et R.2184-13 du code de la commande publique. Si au contraire elle n'a pas été
+ouverte ou si elle a été écartée suite à la détection d'un programme malveillant, celle-ci est détruite.
+Le candidat ou le soumissionnaire qui envoie ou dépose sa copie de sauvegarde en main propre contre
+récépissé, le fait à l'adresse suivante :
+Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
+Direction des achats de l'État
+Bureau des achats informatiques et de télécommunications
+Consultation DAE-AMOA-2025
+59, boulevard Vincent Auriol
+Teledoc 033
+75013 Paris Cedex 13
+Copie de sauvegarde électronique
+Le dépôt d'une copie de sauvegarde électronique est autorisé dans la présente consultation.
+Le candidat ou le soumissionnaire peut faire parvenir une copie de sauvegarde électronique dans les
+délais impartis pour la remise des candidatures ou des offres.
+Le dépôt de la copie de sauvegarde électronique doit s'effectuer dans le respect des exigences de
+l'arrêté du 22 mars 2019 relatif aux exigences minimales des moyens de communication électronique
+utilisés dans la commande publique (annexe 8 du Code de la commande publique).
+RC – DAE-AMOA-2025 Page 14 sur 35
+
+| « Copie de sauvegarde » ; |
+| --- |
+| Intitulé de la consultation ; |
+| Nom ou dénomination du candidat. |
+
+| en cas de détection d'un programme informatique malveillant dans les candidatures ou les |
+| --- |
+| offres transmises par voie électronique ; |
+| en cas de candidature ou d'offre électronique reçue de façon incomplète, hors délais ou |
+| n'ayant pu être ouverte, sous réserve que la transmission de la candidature ou de l'offre |
+| électronique ait commencé avant la clôture de la remise des candidatures ou des offres. |
+
+| Si un programme informatique malveillant est détecté, la copie de sauvegarde est écartée par |
+| --- |
+| l'acheteur. |
+
+| La copie de sauvegarde ouverte est conservée en cas d'ouverture conformément aux dispositions des |
+| --- |
+| articles R.2184-12 et R.2184-13 du code de la commande publique. Si au contraire elle n'a pas été |
+| ouverte ou si elle a été écartée suite à la détection d'un programme malveillant, celle-ci est détruite. |
+
+| Le candidat ou le soumissionnaire qui envoie ou dépose sa copie de sauvegarde en main propre contre |
+| --- |
+| récépissé, le fait à l'adresse suivante : |
+
+| Le candidat ou le soumissionnaire peut faire parvenir une copie de sauvegarde électronique dans les |
+| --- |
+| délais impartis pour la remise des candidatures ou des offres. |
+
+| Le dépôt de la copie de sauvegarde électronique doit s'effectuer dans le respect des exigences de |
+| --- |
+| l'arrêté du 22 mars 2019 relatif aux exigences minimales des moyens de communication électronique |
+| utilisés dans la commande publique (annexe 8 du Code de la commande publique). |
+
+A cet égard, le candidat peut recourir :
+- soit à une solution intégrée satisfaisant l'ensemble des exigences précitées,
+- soit à plusieurs solutions dont la combinaison permet de satisfaire l'ensemble de ces exigences.
+Il peut ainsi recourir à une solution lui permettant de s'identifier, d'indiquer le destinataire de son
+dépôt, d'horodater son pli puis de le mettre en ligne sur une plateforme de stockage sécurisée.
+Avant l'échéance de la date de limite de remise des candidatures ou offres, l'acheteur devra être
+destinataire des données nécessaires pour pouvoir, au besoin, accéder de façon sécurisée à la copie
+de sauvegarde électronique.
+Dès lors que le pli comporte des données à caractère personnel, la plateforme de stockage utilisée par
+l'opérateur économique respecte les exigences du Règlement Général pour la Protection des Données
+(ou bénéficier d'un régime de protection équivalent à celui du RGPD si l'hébergement est effectué
+dans un pays tiers à l'Union Européenne).
+En tout état de cause, la solution retenue par l'opérateur garantit la suppression des données dans un
+délai n'excédant pas celui de la durée de validité des offres de la présente consultation.
+La copie de sauvegarde électronique ne peut être ouverte que dans les deux cas suivants :
+- en cas de détection d'un programme informatique malveillant dans les candidatures ou les
+offres transmises par voie électronique ;
+- en cas de candidature ou d'offre électronique reçue de façon incomplète, hors délais ou
+n'ayant pu être ouverte, sous réserve que la transmission de la candidature ou de l'offre
+électronique ait commencé avant la clôture de la remise des candidatures ou des offres.
+Antivirus
+Le candidat ou le soumissionnaire doit s'assurer que les fichiers transmis ne comportent pas de virus.
+La réception de tout fichier contenant un virus entraînera l'irrecevabilité de l'offre. Si un virus est
+détecté, le pli sera considéré comme n'ayant jamais été reçu et les candidats en sont avertis grâce aux
+renseignements saisis lors de leur identification.
+5.3 Echanges électroniques relatifs à la présente consultation
+# 5.3.1 Date et heure de réception des plis
+Les plis devront être transmis au plus tard le 11 juin 2025 à 14h00.
+RC – DAE-AMOA-2025 Page 15 sur 35
+
+| soit à une solution intégrée satisfaisant l'ensemble des exigences précitées, |
+| --- |
+| soit à plusieurs solutions dont la combinaison permet de satisfaire l'ensemble de ces exigences. |
+
+| Il peut ainsi recourir à une solution lui permettant de s'identifier, d'indiquer le destinataire de son |
+| --- |
+| dépôt, d'horodater son pli puis de le mettre en ligne sur une plateforme de stockage sécurisée. |
+
+| Avant l'échéance de la date de limite de remise des candidatures ou offres, l'acheteur devra être |
+| --- |
+| destinataire des données nécessaires pour pouvoir, au besoin, accéder de façon sécurisée à la copie |
+| de sauvegarde électronique. |
+
+| Dès lors que le pli comporte des données à caractère personnel, la plateforme de stockage utilisée par |
+| --- |
+| l'opérateur économique respecte les exigences du Règlement Général pour la Protection des Données |
+| (ou bénéficier d'un régime de protection équivalent à celui du RGPD si l'hébergement est effectué |
+| dans un pays tiers à l'Union Européenne). |
+
+| En tout état de cause, la solution retenue par l'opérateur garantit la suppression des données dans un |
+| --- |
+| délai n'excédant pas celui de la durée de validité des offres de la présente consultation. |
+
+| en cas de détection d'un programme informatique malveillant dans les candidatures ou les |
+| --- |
+| offres transmises par voie électronique ; |
+| en cas de candidature ou d'offre électronique reçue de façon incomplète, hors délais ou |
+| n'ayant pu être ouverte, sous réserve que la transmission de la candidature ou de l'offre |
+| électronique ait commencé avant la clôture de la remise des candidatures ou des offres. |
+
+| Le candidat ou le soumissionnaire doit s'assurer que les fichiers transmis ne comportent pas de virus. |
+| --- |
+| La réception de tout fichier contenant un virus entraînera l'irrecevabilité de l'offre. Si un virus est |
+| détecté, le pli sera considéré comme n'ayant jamais été reçu et les candidats en sont avertis grâce aux |
+| renseignements saisis lors de leur identification. |
+
+Seuls peuvent être ouverts les plis qui ont été reçus au plus tard à la date et à l'heure limites
+mentionnées ci-dessus. Les plis qui sont reçus ou remis après ces date et heure ne sont pas ouverts.
+Les plis et la "copie de sauvegarde" parvenus hors délai sont inscrits au registre des dépôts et sont
+rejetés.
+# 5.3.2 Demandes de renseignements complémentaires et questions
+Pendant la phase de consultation, les candidats peuvent faire parvenir leurs questions et les demandes
+de renseignements complémentaires sur la plate-forme des achats de l'Etat (PLACE) :
+https://www.marches-publics.gouv.fr.
+Les réponses aux demandes de renseignements complémentaires reçues en temps utile au plus tard
+8 jours avant la date de réception des offres sont transmises aux opérateurs économiques au plus
+tard 6 jours avant la date limite de réception des offres.
+Les demandes adressées passé ce délai ne seront pas examinées.
+# 5.3.3 Modification des documents de la consultation
+Des modifications peuvent être apportées aux documents de la consultation au plus tard 6 jours avant
+la date limite de réception des offres.
+Les modifications sont communiquées aux seuls opérateurs économiques dûment identifiés lors du
+retrait des documents de la consultation.
+Les candidats devront répondre sur la base du dernier dossier modifié. Dans le cas où un candidat
+aurait remis une offre avant les modifications, il pourra en remettre une nouvelle sur la base du dernier
+dossier modifié, avant la date et heure limites de dépôt des offres.
+# 5.3.4 Prolongation du délai de réception des offres
+Lorsqu'une réponse nécessaire à l'élaboration de l'offre n'est pas fournie 6 jours avant la date limite
+de réception des offres, ou en en cas de modifications importantes des documents de la consultation,
+le délai de réception des offres est reporté proportionnellement à l'importance des modifications
+apportées et dans les conditions prévues au à l'article R.2151-4 du code de la commande publique.
+RC – DAE-AMOA-2025 Page 16 sur 35
+
+| Seuls peuvent être ouverts les plis qui ont été reçus au plus tard à la date et à l'heure limites |
+| --- |
+| mentionnées ci-dessus. Les plis qui sont reçus ou remis après ces date et heure ne sont pas ouverts. |
+| Les plis et la "copie de sauvegarde" parvenus hors délai sont inscrits au registre des dépôts et sont |
+| rejetés. |
+
+| Pendant la phase de consultation, les candidats peuvent faire parvenir leurs questions et les demandes |
+| --- |
+| de renseignements complémentaires sur la plate-forme des achats de l'Etat (PLACE) : |
+| https://www.marches-publics.gouv.fr. |
+
+| Les réponses aux demandes de renseignements complémentaires reçues en temps utile au plus tard |
+| --- |
+| 8 jours avant la date de réception des offres sont transmises aux opérateurs économiques au plus |
+| tard 6 jours avant la date limite de réception des offres. |
+
+| Des modifications peuvent être apportées aux documents de la consultation au plus tard 6 jours avant |
+| --- |
+| la date limite de réception des offres. |
+
+| Les modifications sont communiquées aux seuls opérateurs économiques dûment identifiés lors du |
+| --- |
+| retrait des documents de la consultation. |
+
+| Les candidats devront répondre sur la base du dernier dossier modifié. Dans le cas où un candidat |
+| --- |
+| aurait remis une offre avant les modifications, il pourra en remettre une nouvelle sur la base du dernier |
+| dossier modifié, avant la date et heure limites de dépôt des offres. |
+
+| Lorsqu'une réponse nécessaire à l'élaboration de l'offre n'est pas fournie 6 jours avant la date limite |
+| --- |
+| de réception des offres, ou en en cas de modifications importantes des documents de la consultation, |
+| le délai de réception des offres est reporté proportionnellement à l'importance des modifications |
+| apportées et dans les conditions prévues au à l'article R.2151-4 du code de la commande publique. |
+
+# ARTICLE 6 - CANDIDATURE
+# 6.1 Précisions sur les groupements d'opérateurs économiques et la sous-traitance
+Un service de bourse à la cotraitance est proposé sur le portail « entreprises » du profil d'acheteur de
+l'Etat (Plateforme des achats de l'Etat : PLACE) utilisé par les ministères et les établissements publics
+d'Etat. Ce service entend faciliter les contacts des entreprises entre elles qui souhaitent répondre à
+des marchés publics de manière groupée sous la forme d'un groupement d'opérateurs économiques.
+Des fiches explicatives et le mode d'emploi de ce service sont disponibles à l’adresse suivante :
+https://www.economie.gouv.fr/dae/bourse-a-cotraitance-service-pour-aider-entreprises
+La forme du groupement n'est pas imposée.
+En cas de groupement conjoint, le mandataire est solidaire pour l'exécution du marché de chacun des
+membres du groupement pour ses obligations contractuelles à l'égard de l'acheteur.
+La présentation d'un sous-traitant se fait à l'aide de l'imprimé DC 4 (Déclaration de sous-traitance)
+dûment rempli par le sous-traitant et le candidat, comportant l'indication des capacités
+professionnelles, techniques et financières du sous-traitant ainsi que la déclaration sur l'honneur que
+le sous-traitant ne se trouve pas sous le coup d'une interdiction d'accéder aux marchés publics. Le
+formulaire DC4 est disponible à l'adresse suivante : https://www.economie.gouv.fr/daj/formulaires-
+declaration-du-candidat
+# 6.2 Motifs d'exclusion
+Conformément aux dispositions du code de la commande publique relatives aux exclusions de plein
+droit et aux exclusions à l'appréciation de l'acheteur, les personnes se trouvant dans un des cas
+d'exclusion sont exclues de la procédure.
+Lorsqu'un opérateur économique se trouve, en cours de procédure, en situation d'exclusion, il en
+informe sans délai l'acheteur qui l'exclut pour ce motif.
+En cas d'exclusion à l'appréciation de l'acheteur, l'opérateur économique présente, à la demande de
+l'acheteur, ses observations afin d'établir qu'il a pris les mesures nécessaires ou encore que sa
+participation à la présente consultation n'est pas susceptible de porter atteinte à l'égalité de
+traitement.
+RC – DAE-AMOA-2025 Page 17 sur 35
+
+| Un service de bourse à la cotraitance est proposé sur le portail « entreprises » du profil d'acheteur de |
+| --- |
+| l'Etat (Plateforme des achats de l'Etat : PLACE) utilisé par les ministères et les établissements publics |
+| d'Etat. Ce service entend faciliter les contacts des entreprises entre elles qui souhaitent répondre à |
+| des marchés publics de manière groupée sous la forme d'un groupement d'opérateurs économiques. |
+
+| Des fiches explicatives et le mode d'emploi de ce service sont disponibles à l’adresse suivante : |
+| --- |
+| https://www.economie.gouv.fr/dae/bourse-a-cotraitance-service-pour-aider-entreprises |
+
+| En cas de groupement conjoint, le mandataire est solidaire pour l'exécution du marché de chacun des |
+| --- |
+| membres du groupement pour ses obligations contractuelles à l'égard de l'acheteur. |
+
+| La présentation d'un sous-traitant se fait à l'aide de l'imprimé DC 4 (Déclaration de sous-traitance) |
+| --- |
+| dûment rempli par le sous-traitant et le candidat, comportant l'indication des capacités |
+| professionnelles, techniques et financières du sous-traitant ainsi que la déclaration sur l'honneur que |
+| le sous-traitant ne se trouve pas sous le coup d'une interdiction d'accéder aux marchés publics. Le |
+| formulaire DC4 est disponible à l'adresse suivante : https://www.economie.gouv.fr/daj/formulaires- |
+| declaration-du-candidat |
+
+| Conformément aux dispositions du code de la commande publique relatives aux exclusions de plein |
+| --- |
+| droit et aux exclusions à l'appréciation de l'acheteur, les personnes se trouvant dans un des cas |
+| d'exclusion sont exclues de la procédure. |
+
+| Lorsqu'un opérateur économique se trouve, en cours de procédure, en situation d'exclusion, il en |
+| --- |
+| informe sans délai l'acheteur qui l'exclut pour ce motif. |
+
+| En cas d'exclusion à l'appréciation de l'acheteur, l'opérateur économique présente, à la demande de |
+| --- |
+| l'acheteur, ses observations afin d'établir qu'il a pris les mesures nécessaires ou encore que sa |
+| participation à la présente consultation n'est pas susceptible de porter atteinte à l'égalité de |
+| traitement. |
+
+Lorsque le motif d'exclusion de la procédure de passation concerne un des membres du groupement,
+l'acheteur exige son remplacement par une personne qui ne fait pas l'objet d'un motif d'exclusion
+dans un délai de dix jours à compter de la réception de cette demande par le mandataire du
+groupement. A défaut, le groupement est exclu de la procédure.
+Les personnes à l'encontre desquelles il existe un motif d'exclusion ne peuvent être acceptées en tant
+que sous-traitant.
+Lorsque le sous-traitant à l'encontre duquel il existe un motif d'exclusion est présenté au stade de la
+candidature, l'acheteur exige son remplacement par une personne qui ne fait pas l'objet d'un motif
+d'exclusion, dans un délai de dix jours à compter de la réception de cette demande par le candidat. A
+défaut, le candidat est exclu de la procédure.
+# 6.3 Présentation de la candidature
+Une même personne ne peut représenter plus d'un candidat pour un même marché.
+Dans le cadre de la consultation, l'acheteur n’autorise pas le candidat à présenter plusieurs offres sur
+un même lot en agissant à la fois :
+- en qualité de candidat individuel et de membre d'un ou plusieurs groupements d'opérateurs
+économiques ;
+- en qualité de membres de plusieurs groupements d'opérateurs économiques.
+Dans le cadre de la consultation l’acheteur n’autorise pas le candidat à déposer une offre sur plus d’un
+lot, dès lors qu’il répond au lot 6.
+Dans le cadre de la consultation l’acheteur n’autorise pas le candidat à déposer une offre sur plus d’un
+lot, dès lors qu’il répond au lot 7.
+➢
+Si le candidat candidate à plusieurs lots, il peut remettre un dossier de candidature unique à condition
+de présenter, dans des sous-dossiers distincts, ses capacités professionnelles, techniques et financières
+lot par lot.
+Dans le cas d'une candidature d'un groupement d'opérateurs économiques, chaque membre du
+groupement doit fournir l'ensemble des documents et renseignements attestant de ses capacités
+juridiques, professionnelles, techniques et financières. L'appréciation des capacités du groupement
+est globale.
+RC – DAE-AMOA-2025 Page 18 sur 35
+
+| Lorsque le motif d'exclusion de la procédure de passation concerne un des membres du groupement, |
+| --- |
+| l'acheteur exige son remplacement par une personne qui ne fait pas l'objet d'un motif d'exclusion |
+| dans un délai de dix jours à compter de la réception de cette demande par le mandataire du |
+| groupement. A défaut, le groupement est exclu de la procédure. |
+
+| Les personnes à l'encontre desquelles il existe un motif d'exclusion ne peuvent être acceptées en tant |
+| --- |
+| que sous-traitant. |
+
+| Lorsque le sous-traitant à l'encontre duquel il existe un motif d'exclusion est présenté au stade de la |
+| --- |
+| candidature, l'acheteur exige son remplacement par une personne qui ne fait pas l'objet d'un motif |
+| d'exclusion, dans un délai de dix jours à compter de la réception de cette demande par le candidat. A |
+| défaut, le candidat est exclu de la procédure. |
+
+| Dans le cadre de la consultation, l'acheteur n’autorise pas le candidat à présenter plusieurs offres sur |
+| --- |
+| un même lot en agissant à la fois : |
+
+| en qualité de candidat individuel et de membre d'un ou plusieurs groupements d'opérateurs |
+| --- |
+| économiques ; |
+| en qualité de membres de plusieurs groupements d'opérateurs économiques. |
+
+| Si le candidat candidate à plusieurs lots, il peut remettre un dossier de candidature unique à condition |
+| --- |
+| de présenter, dans des sous-dossiers distincts, ses capacités professionnelles, techniques et financières |
+| lot par lot. |
+
+| Dans le cas d'une candidature d'un groupement d'opérateurs économiques, chaque membre du |
+| --- |
+| groupement doit fournir l'ensemble des documents et renseignements attestant de ses capacités |
+| juridiques, professionnelles, techniques et financières. L'appréciation des capacités du groupement |
+| est globale. |
+
+Les candidats ont le choix de présenter leur candidature : sous forme de document unique de marché
+européen électronique (DUME) en utilisant le service DUME ou le service exposé de PLACE sous forme
+de candidature standard en utilisant les formulaires DC1 et DC2
+# 6.3.1 Candidature sous forme de DUME
+Les candidats peuvent présenter leur candidature en renseignant le formulaire DUME accessible :
+- depuis le service exposé de PLACE
+- depuis l'adresse URL suivante : https://dume.chorus-pro.gouv.fr
+Les parties II (informations concernant l'opérateur économique), III (motifs d'exclusion), IV (critères
+de sélection) et le cas échéant V (réduction du nombre de candidats qualifiés) du formulaire sont à
+renseigner.
+Des renseignements complémentaires au sujet du DUME électronique sont disponibles à l'adresse URL
+suivante : https://communaute.chorus-pro.gouv.fr/pour-les-entreprises/]
+Si le groupement d'opérateurs économiques présente sa candidature sous la forme du DUME, chacun
+des membres du groupement doit fournir un DUME distinct.
+Si le candidat s'appuie sur un ou des sous-traitants ou d'autres opérateurs pour faire acte de
+candidature, il renseigne la partie II-C du DUME électronique et fournit pour chacun de ces sous-
+traitants un DUME électronique distinct par le sous-traitant et contenant les informations des sections
+A et B de la partie II ainsi que celles de la partie III et, le cas échéant, les parties IV et V.
+Le candidat remet également l'imprimé DC 4 (Déclaration de sous-traitance,
+https://www.economie.gouv.fr/daj/formulaires-mise-a-jour-formulaire-declaration-sous-traitance-
+dans-marches-publics ) dûment rempli par le sous-traitant et le candidat.
+Si le candidat ne s'appuie pas sur de la sous-traitance pour faire acte de candidature mais qu'il a
+l'intention de sous-traiter une part du marché, il renseigne la partie II-D du DUME électronique et
+fournit les informations figurant dans les parties II-A et B et III pour chacun de ces sous-traitants et
+remet un imprimé DC 4 (Déclaration de sous-traitance) dûment rempli par le candidat et le sous-
+traitant si ce dernier est connu.
+# 6.3.2 Candidature sous forme de DC1 et DC2
+Les candidats transmettent les renseignements suivants :
+- Lettre de candidature ou formulaire DC1 (téléchargeable à partir du lien
+https://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat ) ou équivalent,
+dûment rempli, et daté. Dans le cas d'un groupement d'opérateurs économiques, le formulaire
+DC1 sera complété pour chaque membre du groupement
+- Déclaration du candidat ou formulaire DC2 (téléchargeable à partir du lien
+RC – DAE-AMOA-2025 Page 19 sur 35
+
+| Les candidats ont le choix de présenter leur candidature : sous forme de document unique de marché |
+| --- |
+| européen électronique (DUME) en utilisant le service DUME ou le service exposé de PLACE sous forme |
+| de candidature standard en utilisant les formulaires DC1 et DC2 |
+
+| depuis le service exposé de PLACE |
+| --- |
+| depuis l'adresse URL suivante : https://dume.chorus-pro.gouv.fr |
+
+| Les parties II (informations concernant l'opérateur économique), III (motifs d'exclusion), IV (critères |
+| --- |
+| de sélection) et le cas échéant V (réduction du nombre de candidats qualifiés) du formulaire sont à |
+| renseigner. |
+
+| Des renseignements complémentaires au sujet du DUME électronique sont disponibles à l'adresse URL |
+| --- |
+| suivante : https://communaute.chorus-pro.gouv.fr/pour-les-entreprises/] |
+| Si le groupement d'opérateurs économiques présente sa candidature sous la forme du DUME, chacun |
+| des membres du groupement doit fournir un DUME distinct. |
+
+| Si le candidat s'appuie sur un ou des sous-traitants ou d'autres opérateurs pour faire acte de |
+| --- |
+| candidature, il renseigne la partie II-C du DUME électronique et fournit pour chacun de ces sous- |
+| traitants un DUME électronique distinct par le sous-traitant et contenant les informations des sections |
+| A et B de la partie II ainsi que celles de la partie III et, le cas échéant, les parties IV et V. |
+| Le candidat remet également l'imprimé DC 4 (Déclaration de sous-traitance, |
+| https://www.economie.gouv.fr/daj/formulaires-mise-a-jour-formulaire-declaration-sous-traitance- |
+| dans-marches-publics ) dûment rempli par le sous-traitant et le candidat. |
+
+| Si le candidat ne s'appuie pas sur de la sous-traitance pour faire acte de candidature mais qu'il a |
+| --- |
+| l'intention de sous-traiter une part du marché, il renseigne la partie II-D du DUME électronique et |
+| fournit les informations figurant dans les parties II-A et B et III pour chacun de ces sous-traitants et |
+| remet un imprimé DC 4 (Déclaration de sous-traitance) dûment rempli par le candidat et le sous- |
+| traitant si ce dernier est connu. |
+
+| Lettre de candidature ou formulaire DC1 (téléchargeable à partir du lien |
+| --- |
+| https://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat ) ou équivalent, |
+| dûment rempli, et daté. Dans le cas d'un groupement d'opérateurs économiques, le formulaire |
+| DC1 sera complété pour chaque membre du groupement |
+| Déclaration du candidat ou formulaire DC2 (téléchargeable à partir du lien |
+
+- https://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat ), ou
+équivalent, dûment rempli et daté ; en cas de candidature groupée, le DC2 est rempli par
+chaque membre du groupement.
+Dans le cas d'un groupement d'opérateurs économiques, les candidats transmettent les
+renseignements suivants des formulaires DC1 et DC2 :
+- Le formulaire DC1 sera complété pour chaque membre du groupement ;
+- Le formulaire DC2 est rempli par chaque membre du groupement.
+6.4 Niveaux minimaux de participation
+L'acheteur n'impose pas aux candidats de niveaux minimums de capacité.
+6.5 Tâches essentielles
+Les tâches essentielles suivantes doivent être exécutées par le titulaire et ne peuvent faire l’objet de
+sous-traitance :
+• Lot 1 : Réalisation d’études et d’audits
+➢ Pilotage du lot
+• Lot 2 : Accompagnement à la conduite du changement
+➢ Pilotage du lot
+• Lot 3 : Accompagnement dans la conception de projets et le suivi du support utilisateurs
+➢ UO9 : Réalisation d’un bilan de fin de projet
+➢ Pilotage du lot
+• Lot 4 : Prestations d’assistance à maîtrise d’ouvrage de projets informatiques / produits
+digitaux
+➢ UO1 : Prise de connaissance d’un contexte spécifique
+➢ UO9 : Assistance au pilotage opérationnel de projet
+➢ UO21 : Réalisation d’un bilan de fin de projet
+➢ Pilotage du lot
+➢ Autres tâches essentielles à compléter par les bénéficiaires dans le cadre des marchés
+subséquents
+• Lot 5 : Accompagnement à la tierce recette applicative fonctionnelle
+➢ Pilotage du lot
+• Lot 6 : Accompagnement dans la préparation et la passation d’un marché de prestations
+intellectuelles informatiques
+➢ UO1 : Assistance à la rédaction d’un CCTP
+➢ UO2 : Assistance à la rédaction d’un CCTP pour la mise en œuvre de méthodes AGILE
+➢ UO3 : Assistance à l’analyse des offres techniques
+➢ Pilotage du lot
+RC – DAE-AMOA-2025 Page 20 sur 35
+
+| https://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat ), ou |
+| --- |
+| équivalent, dûment rempli et daté ; en cas de candidature groupée, le DC2 est rempli par |
+| chaque membre du groupement. |
+
+| Dans le cas d'un groupement d'opérateurs économiques, les candidats transmettent les |
+| --- |
+| renseignements suivants des formulaires DC1 et DC2 : |
+
+| Le formulaire DC1 sera complété pour chaque membre du groupement ; |
+| --- |
+| Le formulaire DC2 est rempli par chaque membre du groupement. |
+
+| Les tâches essentielles suivantes doivent être exécutées par le titulaire et ne peuvent faire l’objet de |
+| --- |
+| sous-traitance : |
+
+• Lot 7 : Services d’intermédiation pour la mise à disposition d’expertises rares et/ou spécifiques
+en mode Agile dans la conception de produits digitaux
+➢ Recherche d’expertises le cas échéant
+➢ Pilotage et suivi d’exécution de la prestation
+➢ Pilotage du lot
+6.6 Examen des candidatures
+En application des dispositions de l'article R.2161-4 du code de la commande publique, l'acheteur
+décide d'examiner les offres avant les candidatures.
+Les documents justificatifs concernant l'aptitude et les capacités ainsi que les moyens de preuve
+relatifs aux motifs d'exclusion ne sont demandés par l'acheteur qu'au(x) soumissionnaire(s) auquel(s)
+il est envisagé d'attribuer le marché public.
+Si l'acheteur constate, avant de procéder à l'examen des candidatures, que des pièces ou des
+informations dont la production était réclamée sont absentes ou incomplètes, il peut demander aux
+candidats concernés de compléter leur dossier de candidature dans un délai identique pour tous.
+Ce délai est précisé avec la demande de complément.
+Les candidatures incomplètes ou demeurées incomplètes à la suite d'une demande de compléments
+sont éliminées.
+L'acheteur n'a pas fixé de minimums de capacité comme condition de participation : les candidatures
+qui ne justifient pas de l'aptitude professionnelle ou qui ne disposent manifestement pas des capacités
+professionnelles, techniques ou financières suffisantes demandées pour cette consultation sont
+éliminées.
+6.7 Vérification des conditions de participation : liste des documents justificatifs
+Les candidats ne sont pas tenus de fournir les documents justificatifs lorsque l'acheteur peut les
+obtenir :
+- directement par le biais d'un système électronique de mise à disposition d'informations
+administré par un organisme officiel ;
+- d'un espace de stockage numérique, à condition que figurent dans son dossier de candidature
+toutes les informations nécessaires à la consultation de ce système ou de cet espace et que
+l'accès soit gratuit.
+Le candidat n'est pas tenu de fournir les documents justificatifs déjà transmis à l'acheteur dans le
+cadre d'une précédente consultation et qui demeurent valables. Dans ce cas, il indique les moyens de
+preuves concernés ainsi que la référence de la ou des consultation(s) pour la ou lesquelles ces moyens
+de preuve ont déjà été transmis.
+RC – DAE-AMOA-2025 Page 21 sur 35
+
+| En application des dispositions de l'article R.2161-4 du code de la commande publique, l'acheteur |
+| --- |
+| décide d'examiner les offres avant les candidatures. |
+
+| Les documents justificatifs concernant l'aptitude et les capacités ainsi que les moyens de preuve |
+| --- |
+| relatifs aux motifs d'exclusion ne sont demandés par l'acheteur qu'au(x) soumissionnaire(s) auquel(s) |
+| il est envisagé d'attribuer le marché public. |
+
+| Si l'acheteur constate, avant de procéder à l'examen des candidatures, que des | pièces ou des |
+| --- | --- |
+| informations dont la production était réclamée sont absentes ou incomplètes, il peut demander aux |  |
+| candidats concernés de compléter leur dossier de candidature dans un délai identique pour tous. |  |
+| Ce délai est précisé avec la demande de complément. |  |
+| Les candidatures incomplètes ou demeurées incomplètes à la suite d'une demande de compléments |  |
+| sont éliminées. |  |
+
+| L'acheteur n'a pas fixé de minimums de capacité comme condition de participation : les candidatures |
+| --- |
+| qui ne justifient pas de l'aptitude professionnelle ou qui ne disposent manifestement pas des capacités |
+| professionnelles, techniques ou financières suffisantes demandées pour cette consultation sont |
+| éliminées. |
+
+| Les candidats ne sont pas tenus de fournir les documents justificatifs lorsque l'acheteur peut les |
+| --- |
+| obtenir : |
+
+| directement par le biais d'un système électronique de mise à disposition d'informations |
+| --- |
+| administré par un organisme officiel ; |
+| d'un espace de stockage numérique, à condition que figurent dans son dossier de candidature |
+| toutes les informations nécessaires à la consultation de ce système ou de cet espace et que |
+| l'accès soit gratuit. |
+
+| Le candidat n'est pas tenu de fournir les documents justificatifs déjà transmis à l'acheteur dans le |
+| --- |
+| cadre d'une précédente consultation et qui demeurent valables. Dans ce cas, il indique les moyens de |
+| preuves concernés ainsi que la référence de la ou des consultation(s) pour la ou lesquelles ces moyens |
+| de preuve ont déjà été transmis. |
+
+En cas d'impossibilité de se procurer les documents justificatifs directement auprès des
+administrations ou organismes, l'acheteur en demande communication au candidat.
+Les documents justificatifs concernant les aptitudes et capacités sont renseignés dans le DUME ou
+dans les formulaires DC1 et DC2 :
+- Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires concernant les
+prestations objet du lot, réalisés au cours des trois derniers exercices disponibles ;
+- Présentation d'une liste des principaux services effectués au cours des trois dernières années,
+indiquant le montant, la date et le destinataire public ou privé ;
+- Déclaration indiquant les effectifs moyens annuels du candidat en rapport avec les prestations
+objet du lot pour chacune des trois dernières années ;
+Si, pour une raison justifiée, le candidat n'est pas en mesure de produire les renseignements et
+documents demandés par l'acheteur, il est autorisé à prouver sa capacité économique et financière
+par tout autre moyen considéré comme approprié par l'acheteur.
+6.8 Vérification des motifs d'exclusion
+En application des dispositions de l’article R.2144-4 du code de la commande publique, l'acheteur
+n'exige que du seul soumissionnaire auquel il est envisagé d'attribuer le marché public qu'il justifie ne
+pas se trouver dans un des cas des motifs d'exclusion.
+# ARTICLE 7 – OFFRE
+# 7.1 Présentation de l'offre
+L'offre du soumissionnaire comporte les pièces suivantes par lot :
+00. Les annexes au règlement de la consultation (RC) :
+o Annexe 1 : ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3) ;
+o Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant
+des difficultés sociales ou professionnelles particulières du lot considéré complété.
+01. L'acte d'engagement complété (ATTRI1) et ses annexes :
+• Annexe 1 : bordereau des prix unitaires (BPU) complété au format excel ou équivalent du
+lot considéré ;
+• Annexe 2 : engagement d’exécution de la clause sociale du lot considéré ;
+• Annexe 3 : interlocuteur référent du lot considéré.
+02. le cadre de réponse technique et environnemental (CRT) complété du lot considéré au format
+pdf consultable ou équivalent et ses annexes.
+03. un acte spécial de sous-traitance par sous-traitant complété.
+RC – DAE-AMOA-2025 Page 22 sur 35
+
+| En cas d'impossibilité de se procurer les documents justificatifs directement auprès des |
+| --- |
+| administrations ou organismes, l'acheteur en demande communication au candidat. |
+
+| Les documents justificatifs concernant les aptitudes et capacités sont renseignés dans le DUME ou |
+| --- |
+| dans les formulaires DC1 et DC2 : |
+
+| Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires concernant les |
+| --- |
+| prestations objet du lot, réalisés au cours des trois derniers exercices disponibles ; |
+| Présentation d'une liste des principaux services effectués au cours des trois dernières années, |
+| indiquant le montant, la date et le destinataire public ou privé ; |
+| Déclaration indiquant les effectifs moyens annuels du candidat en rapport avec les prestations |
+| objet du lot pour chacune des trois dernières années ; |
+
+| En application des dispositions de l’article R.2144-4 du code de la commande publique, l'acheteur |
+| --- |
+| n'exige que du seul soumissionnaire auquel il est envisagé d'attribuer le marché public qu'il justifie ne |
+| pas se trouver dans un des cas des motifs d'exclusion. |
+
+| Annexe 1 : ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3) ; |
+| --- |
+| Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant |
+| des difficultés sociales ou professionnelles particulières du lot considéré complété. |
+
+7.2 Examen des offres
+Les offres inappropriées, irrégulières ou inacceptables, sont éliminées.
+Toutefois, l'acheteur peut autoriser tous les soumissionnaires concernés à régulariser les offres
+irrégulières dans un délai approprié, à condition qu'elles ne soient pas anormalement basses et que
+cette régularisation n'ait pas pour effet de modifier les caractéristiques substantielles des offres.
+L'acheteur peut demander aux soumissionnaires de préciser la teneur de leur offre.
+Cette demande ne peut ni aboutir à une négociation ni à une modification de l'offre.
+7.3 Critères d'attribution
+Les critères d’attribution des lots 1 à 6 sont les suivants :
+Critère n°1 : Prix (35%)
+Critère n°2 : Valeur technique (50%)
+• Sous-critère 2.1 : Qualité des profils et gestion des ressources (20%)
+➢ Sous-critère 2.1.1 : Cohérence des profils-types proposés avec les exigences des
+missions (5%)
+Le soumissionnaire présente des profils-types et démontre l’adéquation de ces profils avec le CCTP.
+➢ Sous-critère 2.1.2 : Capacité à mobiliser rapidement des profils similaires et garantir leur
+adéquation aux missions (10%)
+Le soumissionnaire décrit sa capacité à mobiliser des compétences équivalentes aux profils-types.
+➢ Sous-critère 2.1.3 : Evaluation et maintien des compétences des consultants (5%)
+Le soumissionnaire explique comment il évalue et assure le maintien des compétences de ses
+consultants.
+• Sous-critère 2.2 : Clarté de la méthodologie proposée et adaptabilité du candidat aux enjeux
+des bénéficiaires (15%)
+➢ Sous-critère 2.2.1 : Clarté de la méthodologie proposée et de la gestion des missions
+(6%)
+Le soumissionnaire présente sa méthodologie pour organiser et suivre l’exécution des prestations des
+bénéficiaires.
+➢ Sous-critère 2.2.2 : Compréhension des enjeux des bénéficiaires (5%)
+Le soumissionnaire démontre sa faculté à adapter sa méthode dans le contexte des enjeux spécifiques
+de chaque bénéficiaire.
+➢ Sous-critère 2.2.3 : Capacité à gérer les priorités et les urgences (4%)
+RC – DAE-AMOA-2025 Page 23 sur 35
+
+| Toutefois, l'acheteur peut autoriser tous les soumissionnaires concernés à régulariser les offres |
+| --- |
+| irrégulières dans un délai approprié, à condition qu'elles ne soient pas anormalement basses et que |
+| cette régularisation n'ait pas pour effet de modifier les caractéristiques substantielles des offres. |
+
+Le soumissionnaire détaille la manière dont il gère les priorités et réagit aux urgences de chaque
+bénéficiaire.
+• Sous-critère 2.3 : Capacité à piloter et à suivre globalement les missions (10%)
+➢ Sous-critère 2.3.1 : Pilotage et coordination des missions (5%)
+Le soumissionnaire explique comment il compte piloter et coordonner l’ensemble des missions des
+bénéficiaires du lot en s’appuyant sur ses propres outils et méthodes.
+➢ Sous-critère 2.3.2 : Capacité à gérer les incidents et à assurer le reporting (3%)
+Le soumissionnaire indique comment il applique le mécanisme d’escalade défini dans le CCTP.
+➢ Sous-critère 2.3.3 : Suivi des performances et des indicateurs (2%)
+Le soumissionnaire montre comment il suit et exploite les indicateurs de performance du CCTP.
+• Sous-critère 2.4 : Prise en compte et gestion des enjeux de sécurité (5%)
+Le soumissionnaire détaille sa méthodologie pour s’assurer de la confidentialité et de la sécurité
+des données du bénéficiaire.
+Critère n°3 : Considérations sociales et environnementales dans le cadre de l’exécution du marché
+(15%)
+• Sous-critère 3.1 : Prise en compte de la performance sociale (5%)
+➢ Sous-critère 3.1.1 : Taux de féminisation des salariés en insertion (2,5%)
+➢ Sous-critère 3.1.2 : Evaluation du dispositif de formation des salariés en insertion (2,5%)
+• Sous-critère 3.2 : Prise en compte des enjeux environnementaux (10%)
+➢ Sous-critère 3.2.1 : Evaluation du niveau de formation des consultants aux pratiques éco-
+responsables (5%)
+Le soumissionnaire devra présenter les mesures qu’il prend pour s’assurer que les consultants qui
+interviennent dans le cadre de l’ACIM soient formés aux considérations environnementales.
+➢ Sous-critère 3.2.2 : Evaluation de la gestion des déplacements des consultants (5%)
+Le soumissionnaire devra expliciter les stratégies concrètes qu’il compte mettre en place pour limiter
+et optimiser les déplacements liés aux missions de ses consultants (déplacements et plannings) dans
+l’objectif de limiter les émissions de gaz à effet de serre (GES)
+Les critères d’attribution du lot 7 sont les suivants :
+Critère n°1 : Prix (40%)
+Critère n°2 : Valeur technique (45%)
+• Sous-critère 2.1 : Qualité des profils et gestion des ressources (20%)
+➢ Sous-critère 2.1.1 : Cohérence des profils-types proposés avec les exigences des
+missions (5%)
+Le soumissionnaire présente des profils-types et démontre l’adéquation de ces profils avec le CCTP.
+RC – DAE-AMOA-2025 Page 24 sur 35
+
+➢ Sous-critère 2.1.2 : Capacité à mobiliser rapidement des profils similaires et garantir leur
+adéquation aux missions (10%)
+Le soumissionnaire décrit sa capacité à mobiliser des compétences équivalentes aux profils-types.
+➢ Sous-critère 2.1.3 : Evaluation du suivi des experts (5%)
+Le soumissionnaire explique comment il évalue et assure ou faire assurer le maintien des compétences
+de ses intervenants.
+• Sous-critère 2.2 : Clarté de la méthodologie proposée et adaptabilité du candidat aux enjeux
+des bénéficiaires (15%)
+➢ Sous-critère 2.2.1 : Clarté de la méthodologie proposée et de la gestion des missions
+(6%)
+Le soumissionnaire présente sa méthodologie pour organiser et suivre l’exécution des prestations des
+bénéficiaires.
+➢ Sous-critère 2.2.2 : Compréhension des enjeux des bénéficiaires (5%)
+Le soumissionnaire démontre sa faculté à adapter sa méthode dans le contexte des enjeux spécifiques
+de chaque bénéficiaire.
+➢ Sous-critère 2.2.3 : Capacité à gérer les priorités et les urgences (4%)
+Le soumissionnaire détaille la manière dont il gère les priorités et réagit aux urgences de chaque
+bénéficiaire.
+• Sous-critère 2.3 : Capacité à piloter et à suivre globalement les missions (10%)
+➢ Sous-critère 2.3.1 : Pilotage et coordination des missions (5%)
+Le soumissionnaire explique comment il compte piloter et coordonner l’ensemble des missions des
+bénéficiaires du lot en s’appuyant sur ses propres outils et méthodes.
+➢ Sous-critère 2.3.2 : Capacité à gérer les incidents et à assurer le reporting (3%)
+Le soumissionnaire indique comment il applique le mécanisme d’escalade défini dans le CCTP.
+➢ Sous-critère 2.3.3 : Suivi des performances et des indicateurs (2%)
+Le soumissionnaire montre comment il suit et exploite les indicateurs de performance du CCTP.
+Critère n°3 : Considérations sociales et environnementales dans le cadre de l’exécution du marché
+(15%)
+• Sous-critère 3.1 : Prise en compte de la performance sociale (5%)
+➢ Sous-critère 3.1.1 : Taux de féminisation des salariés en insertion (2,5%)
+➢ Sous-critère 3.1.2 : Evaluation du dispositif de formation des salariés en insertion (2,5%)
+• Sous-critère 3.1 : Evaluation de la gestion des déplacements des consultants (10%)
+Le soumissionnaire devra expliciter les stratégies concrètes qu’il compte mettre en place pour limiter
+et optimiser les déplacements liés aux missions de ses consultants (déplacements et plannings) dans
+l’objectif de limiter les émissions de gaz à effet de serre (GES)
+7.4 Méthode de notation des offres
+Pour les lots 1 à 6 :
+Critère n°1 : Prix (35%)
+RC – DAE-AMOA-2025 Page 25 sur 35
+
+Le critère prix sera jugé sur la base d’un ou de plusieurs scénarios de commandes non communiqués
+aux candidats.
+(35 X prix moyen des offres déposées)
+Note attribuée=
+(Prix moyen des offres déposées+prix de l′offre examinée)
+Critère n°2 : Valeur technique (50)
+• Sous-critère 2.1 : Qualité des profils et gestion des ressources (20%)
+➢ Sous-critère 2.1.1 : Cohérence des profils-types proposés avec les exigences des
+missions (5%)
+➢ Sous-critère 2.1.2 : Capacité à mobiliser rapidement des profils similaires et garantir leur
+adéquation aux missions (10%)
+➢ Sous-critère 2.1.3 : Evaluation et maintien des compétences des consultants (5%)
+• Sous-critère 2.2 : Clarté de la méthodologie proposée et adaptabilité du candidat aux enjeux
+des bénéficiaires (15%)
+➢ Sous-critère 2.2.1 : Clarté de la méthodologie proposée et de la gestion des missions
+(6%)
+➢ Sous-critère 2.2.2 : Compréhension des enjeux des bénéficiaires (5%)
+➢ Sous-critère 2.2.3 : Capacité à gérer les priorités et les urgences (4%)
+• Sous-critère 2.3 : Capacité à piloter et à suivre globalement les missions (10%)
+➢ Sous-critère 2.3.1 : Pilotage et coordination des missions (5%)
+➢ Sous-critère 2.3.2 : Capacité à gérer les incidents et à assurer le reporting (3%)
+➢ Sous-critère 2.3.3 : Suivi des performances et des indicateurs (2%)
+• Sous-critère 2.4 : Prise en compte et gestion des enjeux de sécurité (5%)
+Les sous-critères 2.1.1 à 2.4 de la valeur technique seront jugés en attribuant des notes de 0 à 10.
+Les notes sont ensuite pondérées par application du coefficient de pondération.
+Critère n°3 : Considérations sociales et environnementales dans le cadre de l’exécution du marché
+(15%)
+• Sous-critère 3.1 : Prise en compte de la performance sociale (5 %)
+La performance en matière d’insertion des publics rencontrant des difficultés sociales ou
+professionnelles particulières sera évaluée sur la base du taux d’emploi de femmes proposé par
+l’entreprise pour la réalisation de ses prestations et sur le ou les dispositifs de formation mis en place
+par l’entreprise pour les salariés en insertion, selon les réponses données au questionnaire en annexe
+2 au règlement de la consultation (RC) et valant sous-critères :
+RC – DAE-AMOA-2025 Page 26 sur 35
+
+| Le critère prix sera jugé sur la base d’un ou de plusieurs scénarios de commandes non communiqués |
+| --- |
+| aux candidats. |
+
+| Les sous-critères 2.1.1 à 2.4 de la valeur technique seront jugés en attribuant des notes de 0 à 10. |
+| --- |
+| Les notes sont ensuite pondérées par application du coefficient de pondération. |
+
+➢ Sous-critère 3.1.1 : Le taux de féminisation des salariés en insertion (2,5%)
+offre examinée
+Valeur de l′offre examinée= X 50
+meilleure offre
+➢ Sous-critère 3.1.2 : Evaluation du dispositif de formation des salariés en insertion (50 points
+pondérés à 2,5%)
+o Formations non-certifiantes des salariés en insertion affectés au marché (10 points) :
+notes de 0 à 10 ;
+o Formations certifiantes (40 points) :
+offre examinée
+Valeur de l′offre examinée= X 40
+meilleure offre
+La note de chaque sous-critère est obtenue selon la formule suivante :
+Valeur de l′offre examinée
+Note attribuée= X 2,5
+nombre de points max pouvant être obtenu
+La note finale du critère « performance sociale » résulte de l’addition des notes obtenues par le
+candidat pour chacun des sous-critères.
+• Sous-critère 3.2 : Prise en compte des enjeux environnementaux (10 %)
+➢ Sous-critère 3.2.1 : Evaluation du niveau de formation des consultants aux pratiques éco-
+responsables (5%)
+➢ Sous-critère 3.2.2 : Evaluation de la gestion des déplacements des consultants (5%)
+Les sous-critères 3.2.1 et 3.2.2 des considérations environnementales seront jugés en attribuant des
+notes de 0 à 10.
+Les notes seront ensuite pondérées par application du coefficient de pondération.
+Pour le lot 7:
+Critère n°1 : Prix (40%)
+Le critère prix sera jugé sur la base d’un ou de plusieurs scénarios de commandes non communiqués
+aux candidats.
+(40 X prix moyen des offres déposées)
+Note attribuée=
+(Prix moyen des offres déposées+prix de l′offre examinée)
+RC – DAE-AMOA-2025 Page 27 sur 35
+
+| Les sous-critères 3.2.1 et 3.2.2 des considérations environnementales seront jugés en attribuant des |
+| --- |
+| notes de 0 à 10. |
+| Les notes seront ensuite pondérées par application du coefficient de pondération. |
+
+| Le critère prix sera jugé sur la base d’un ou de plusieurs scénarios de commandes non communiqués |
+| --- |
+| aux candidats. |
+
+Critère n°2 : Valeur technique (45%)
+• Sous-critère 2.1 : Qualité des profils et gestion des ressources (20%)
+➢ Sous-critère 2.1.1 : Cohérence des profils-types proposés avec les exigences des
+missions (5%)
+➢ Sous-critère 2.1.2 : Capacité à mobiliser rapidement des profils similaires et garantir leur
+adéquation aux missions (10%)
+➢ Sous-critère 2.1.3 : Evaluation et maintien des compétences des consultants (5%)
+• Sous-critère 2.2 : Clarté de la méthodologie proposée et adaptabilité du candidat aux enjeux
+des bénéficiaires (15%)
+➢ Sous-critère 2.2.1 : Clarté de la méthodologie proposée et de la gestion des missions
+(6%)
+➢ Sous-critère 2.2.2 : Compréhension des enjeux des bénéficiaires (5%)
+➢ Sous-critère 2.2.3 : Capacité à gérer les priorités et les urgences (4%)
+• Sous-critère 2.3 : Capacité à piloter et à suivre globalement les missions (10%)
+➢ Sous-critère 2.3.1 : Pilotage et coordination des missions (5%)
+➢ Sous-critère 2.3.2 : Capacité à gérer les incidents et à assurer le reporting (3%)
+➢ Sous-critère 2.3.3 : Suivi des performances et des indicateurs (2%)
+Les sous-critères 2.1.1 à 2.3.3 de la valeur technique seront jugés en attribuant des notes de 0 à 10.
+Les notes sont ensuite pondérées par application du coefficient de pondération.
+Critère n°3 : Considérations sociales et environnementales dans le cadre de l’exécution du marché
+(15%)
+• Sous-critère 3.1 : Prise en compte de la performance sociale (5 %)
+La performance en matière d’insertion des publics rencontrant des difficultés sociales ou
+professionnelles particulières sera évaluée sur la base du taux d’emploi de femmes proposé par
+l’entreprise pour la réalisation de ses prestations et sur le ou les dispositifs de formation mis en place
+par l’entreprise pour les salariés en insertion, selon les réponses données au questionnaire en annexe
+2 au règlement de la consultation (RC) et valant sous-critères :
+➢ Sous-critère 3.1.1 : Le taux de féminisation des salariés en insertion (2,5%)
+offre examinée
+Valeur de l′offre examinée= X 50
+meilleure offre
+➢ Sous-critère 3.1.2 : Evaluation du dispositif de formation des salariés en insertion (50 points
+pondérés à 2,5%)
+o ;
+RC – DAE-AMOA-2025 Page 28 sur 35
+
+| Les sous-critères 2.1.1 à 2.3.3 de la valeur technique seront jugés en attribuant des notes de 0 à 10. |
+| --- |
+| Les notes sont ensuite pondérées par application du coefficient de pondération. |
+
+o Formations non-certifiantes des salariés en insertion affectés au marché (10 points) :
+notes de 0 à 10 ;
+o Formations certifiantes (40 points) :
+offre examinée
+Valeur de l′offre examinée= X 40
+meilleure offre
+La note de chaque sous-critère est obtenue selon la formule suivante :
+Valeur de l′offre examinée
+Note attribuée= X 2,5
+nombre de points max pouvant être obtenu
+La note finale du critère « performance sociale » résulte de l’addition des notes obtenues par le
+candidat pour chacun des sous-critères.
+• Sous-critère 3.2 : Evaluation de la gestion des déplacements des consultants (10%)
+Les sous-critères des considérations environnementales seront jugés en attribuant des notes de 0 à 10.
+Les notes seront ensuite pondérées par application du coefficient de pondération.
+7.5 Durée de validité des offres
+Les offres sont valables 6 mois à compter de la date limite de remise des plis.
+En tant que de besoin, l'acheteur peut solliciter des candidats ou des soumissionnaires la prorogation
+du délai de validité des offres.
+Pour ce faire il transmet, pour accord, sa demande à l'ensemble des candidats ou soumissionnaires via
+la plateforme PLACE. La demande précise la durée de prorogation de la validité des offres.
+Si le candidat ou le soumissionnaire n'accepte pas de maintenir son offre, l'acheteur poursuit la
+procédure avec les seuls candidats ou soumissionnaires ayant accepté la prorogation du délai de
+validité de leur offre.
+# ARTICLE 8 – ATTRIBUTION DE L’ACCORD-CADRE
+L'accord-cadre est attribué aux soumissionnaires dont l'offre est économiquement la plus
+avantageuse, au regard des critères d'attribution énoncés dans le présent règlement de la
+consultation.
+RC – DAE-AMOA-2025 Page 29 sur 35
+
+| Les sous-critères des considérations environnementales seront jugés en attribuant des notes de 0 à 10. |
+| --- |
+| Les notes seront ensuite pondérées par application du coefficient de pondération. |
+
+| En tant que de besoin, l'acheteur peut solliciter des candidats ou des soumissionnaires la prorogation |
+| --- |
+| du délai de validité des offres. |
+
+| Pour ce faire il transmet, pour accord, sa demande à l'ensemble des candidats ou soumissionnaires via |
+| --- |
+| la plateforme PLACE. La demande précise la durée de prorogation de la validité des offres. |
+
+| Si le candidat ou le soumissionnaire n'accepte pas de maintenir son offre, l'acheteur poursuit la |
+| --- |
+| procédure avec les seuls candidats ou soumissionnaires ayant accepté la prorogation du délai de |
+| validité de leur offre. |
+
+| L'accord-cadre est attribué aux soumissionnaires dont l'offre est économiquement la plus |
+| --- |
+| avantageuse, au regard des critères d'attribution énoncés dans le présent règlement de la |
+| consultation. |
+
+Les soumissionnaires évincés sont informés du rejet de leur offre dans les conditions fixées à l'article
+R.2181-1 et suivants du code de la commande publique.
+8.1 Vérification des motifs d'exclusion : transmission des moyens de preuve
+Le soumissionnaire auquel il est envisagé d'attribuer l'accord-cadre n'est pas tenu de fournir les
+moyens de preuves relatifs aux motifs d'exclusion que l'acheteur peut obtenir :
+- directement par le biais d'un système électronique de mise à disposition d'informations
+administré par un organisme officiel ;
+- d'un espace de stockage numérique, à condition que figurent dans son dossier de candidature
+toutes les informations nécessaires à la consultation de ce système ou de cet espace et que
+l'accès soit gratuit.
+Les candidats ne sont pas tenus de fournir les moyens de preuves déjà transmis à l'acheteur dans le
+cadre d'une précédente consultation et qui demeurent valables. Dans ce cas, ils indiquent les
+documents concernés ainsi que la référence de la ou des consultation(s) pour la ou lesquelles les
+documents ont déjà été transmis
+En cas d'impossibilité de se procurer les moyens de preuves directement auprès des administrations
+ou organismes, l'acheteur en demande communication au candidat.
+Le soumissionnaire auquel il est envisagé d'attribuer l'accord-cadre fournit, dans le délai fixé dans le
+courrier envoyé par voie dématérialisée l'informant que son offre est susceptible d'être retenue, les
+documents suivants :
+- L'acte d'engagement (ATTRI1) et ses annexes, à compléter et à signer électroniquement, le cas
+échéant par tous les membres du groupement d'opérateurs économiques ;
+- Le cas échéant, dans le cas où les membres du groupement d'opérateurs économiques ne
+signent pas tous l'acte d'engagement, le document d'habilitation signé par tous les membres
+du groupement ;
+- Le pouvoir du ou des signataires d'engager la personne qu'il représente (titulaire individuel ou
+groupement d'opérateurs économiques) ;
+- Le cas échéant, en cas de sous-traitance, la déclaration de sous-traitance (DC4 ou équivalent)
+signée par le sous-traitant et le soumissionnaire, les renseignements relatifs aux capacités du
+sous-traitant lorsque le soumissionnaire s'appuie sur celles-ci ;
+- Le ou les relevé(s) d'identité bancaire ;
+- En cas de redressement judiciaire, ou une procédure équivalente régie par un droit étranger,
+la copie du ou des jugements prononcés ;
+- Le cas échéant, si le soumissionnaire emploie des salariés étrangers, la liste nominative des
+salariés étrangers qu'il emploie et soumis à l'autorisation de travail prévue à l'article L.5221-2
+du code du travail.
+RC – DAE-AMOA-2025 Page 30 sur 35
+
+| Les soumissionnaires évincés sont informés du rejet de leur offre dans les conditions fixées à l'article |
+| --- |
+| R.2181-1 et suivants du code de la commande publique. |
+
+| Le soumissionnaire auquel il est envisagé d'attribuer l'accord-cadre n'est pas tenu de fournir les |
+| --- |
+| moyens de preuves relatifs aux motifs d'exclusion que l'acheteur peut obtenir : |
+
+| directement par le biais d'un système électronique de mise à disposition d'informations |
+| --- |
+| administré par un organisme officiel ; |
+| d'un espace de stockage numérique, à condition que figurent dans son dossier de candidature |
+| toutes les informations nécessaires à la consultation de ce système ou de cet espace et que |
+| l'accès soit gratuit. |
+
+| Les candidats ne sont pas tenus de fournir les moyens de preuves déjà transmis à l'acheteur dans le |
+| --- |
+| cadre d'une précédente consultation et qui demeurent valables. Dans ce cas, ils indiquent les |
+| documents concernés ainsi que la référence de la ou des consultation(s) pour la ou lesquelles les |
+| documents ont déjà été transmis |
+
+| En cas d'impossibilité de se procurer les moyens de preuves directement auprès des administrations |
+| --- |
+| ou organismes, l'acheteur en demande communication au candidat. |
+
+| Le soumissionnaire auquel il est envisagé d'attribuer l'accord-cadre fournit, dans le délai fixé dans le |
+| --- |
+| courrier envoyé par voie dématérialisée l'informant que son offre est susceptible d'être retenue, les |
+| documents suivants : |
+
+| L'acte d'engagement (ATTRI1) et ses annexes, à compléter et à signer électroniquement, le cas |
+| --- |
+| échéant par tous les membres du groupement d'opérateurs économiques ; |
+| Le cas échéant, dans le cas où les membres du groupement d'opérateurs économiques ne |
+| signent pas tous l'acte d'engagement, le document d'habilitation signé par tous les membres |
+| du groupement ; |
+| Le pouvoir du ou des signataires d'engager la personne qu'il représente (titulaire individuel ou |
+| groupement d'opérateurs économiques) ; |
+| Le cas échéant, en cas de sous-traitance, la déclaration de sous-traitance (DC4 ou équivalent) |
+| signée par le sous-traitant et le soumissionnaire, les renseignements relatifs aux capacités du |
+| sous-traitant lorsque le soumissionnaire s'appuie sur celles-ci ; |
+| Le ou les relevé(s) d'identité bancaire ; |
+| En cas de redressement judiciaire, ou une procédure équivalente régie par un droit étranger, |
+| la copie du ou des jugements prononcés ; |
+| Le cas échéant, si le soumissionnaire emploie des salariés étrangers, la liste nominative des |
+| salariés étrangers qu'il emploie et soumis à l'autorisation de travail prévue à l'article L.5221-2 |
+| du code du travail. |
+
+Cette liste doit comporter toutes les informations figurant à l'article D.8254-2 du code du
+travail (1° Sa date d'embauche ; 2° Sa nationalité ; 3° Le type et le numéro d'ordre du titre
+valant autorisation de travail)
+- Lorsque le soumissionnaire est établi en France : son numéro unique d'identification
+permettant à l'acheteur d'accéder aux informations pertinentes par le biais d'un système
+électronique mentionné au 1° de l'article R. 2143-13 du CCP ;
+- Lorsque le soumissionnaire est établi en France : Pour les entreprises en cours d'inscription -
+un récépissé de dépôt de déclaration auprès d'un centre de formalités des entreprises (CFE) ;
+- Lorsque le soumissionnaire est établi en France : dans le cas où le soumissionnaire est une
+société fille (filiale), le cas échéant, une attestation de régularité fiscale justifiant du paiement
+de l'impôt sur les sociétés ou de la TVA par la société mère ou par la filiale Le cas échéant, dans
+le cas où elles ne sont pas disponibles sur PLACE, le(s) certificat(s) délivré(s) par les
+administrations et organismes compétents suivant(s) :
+➢ certificat de conformité aux obligations fiscales (au titre de l'impôt sur le revenu, de l'impôt
+sur les sociétés et/ou de la taxe sur la valeur ajoutée (TVA) ;
+➢ certificat de l'article L. 243-15 du code de la sécurité sociale, connu sous le nom
+d'attestation de vigilance ;
+➢ pour tout employeur occupant au moins vingt salariés le cas échéant, le certificat délivré
+par l'association de gestion du fonds de développement pour l'insertion professionnelle
+des personnes handicapées (AGEFIPH), concernant le respect des dispositions des articles
+L. 5212-1 à L. 5212-11 du code du travail relatives à l'emploi des travailleurs handicapés.
+- Lorsque le soumissionnaire est établi hors de France : un document mentionnant son numéro
+individuel d'identification, attribué en application de l'article 286 ter du code général des
+impôts. Si le soumissionnaire n'est pas établi dans un pays de l'Union européenne, un
+document mentionnant l'identité et l'adresse du candidat ou les coordonnées de son
+représentant fiscal ponctuel en France ;
+- Lorsque le soumissionnaire est établi hors de France : un document attestant de la régularité
+de la situation sociale du cocontractant au regard du règlement (CE) n°883/2004 du 29 avril
+2004 ou d'une convention internationale de sécurité sociale et, lorsque la législation du pays
+de domiciliation le prévoit, un document émanant de l'organisme gérant le régime social
+obligatoire et mentionnant que le cocontractant est à jour de ses déclarations sociales et du
+paiement des cotisations afférentes, ou un document équivalent ou, à défaut, une attestation
+de fourniture des déclarations sociales et de paiement des cotisations et contributions de
+sécurité sociale prévue à l' article L. 243-15 du code de la sécurité sociale
+- Lorsque le soumissionnaire est établi hors de France : un extrait du registre pertinent au sens
+de l'article R.2143-9 du code de la commande publique, ou un document équivalent délivré
+par l'autorité judiciaire ou administrative compétente du pays d'origine, attestant de l'absence
+de cas d'exclusion. Pour les entreprises en cours de création, un document datant de moins de
+6 mois émanant de l'autorité habilitée à recevoir l'inscription au registre professionnel et
+attestant de la demande d'immatriculation audit registre ;
+RC – DAE-AMOA-2025 Page 31 sur 35
+
+| Cette liste doit comporter toutes les informations figurant à l'article D.8254-2 du code du |
+| --- |
+| travail (1° Sa date d'embauche ; 2° Sa nationalité ; 3° Le type et le numéro d'ordre du titre |
+| valant autorisation de travail) |
+| Lorsque le soumissionnaire est établi en France : son numéro unique d'identification |
+| permettant à l'acheteur d'accéder aux informations pertinentes par le biais d'un système |
+| électronique mentionné au 1° de l'article R. 2143-13 du CCP ; |
+| Lorsque le soumissionnaire est établi en France : Pour les entreprises en cours d'inscription - |
+| un récépissé de dépôt de déclaration auprès d'un centre de formalités des entreprises (CFE) ; |
+| Lorsque le soumissionnaire est établi en France : dans le cas où le soumissionnaire est une |
+| société fille (filiale), le cas échéant, une attestation de régularité fiscale justifiant du paiement |
+| de l'impôt sur les sociétés ou de la TVA par la société mère ou par la filiale Le cas échéant, dans |
+| le cas où elles ne sont pas disponibles sur PLACE, le(s) certificat(s) délivré(s) par les |
+| administrations et organismes compétents suivant(s) : |
+
+| certificat de conformité aux obligations fiscales (au titre de l'impôt sur le revenu, de l'impôt |
+| --- |
+| sur les sociétés et/ou de la taxe sur la valeur ajoutée (TVA) ; |
+| certificat de l'article L. 243-15 du code de la sécurité sociale, connu sous le nom |
+| d'attestation de vigilance ; |
+| pour tout employeur occupant au moins vingt salariés le cas échéant, le certificat délivré |
+| par l'association de gestion du fonds de développement pour l'insertion professionnelle |
+| des personnes handicapées (AGEFIPH), concernant le respect des dispositions des articles |
+| L. 5212-1 à L. 5212-11 du code du travail relatives à l'emploi des travailleurs handicapés. |
+
+| Lorsque le soumissionnaire est établi hors de France : un document mentionnant son numéro |
+| --- |
+| individuel d'identification, attribué en application de l'article 286 ter du code général des |
+| impôts. Si le soumissionnaire n'est pas établi dans un pays de l'Union européenne, un |
+| document mentionnant l'identité et l'adresse du candidat ou les coordonnées de son |
+| représentant fiscal ponctuel en France ; |
+| Lorsque le soumissionnaire est établi hors de France : un document attestant de la régularité |
+| de la situation sociale du cocontractant au regard du règlement (CE) n°883/2004 du 29 avril |
+| 2004 ou d'une convention internationale de sécurité sociale et, lorsque la législation du pays |
+| de domiciliation le prévoit, un document émanant de l'organisme gérant le régime social |
+| obligatoire et mentionnant que le cocontractant est à jour de ses déclarations sociales et du |
+| paiement des cotisations afférentes, ou un document équivalent ou, à défaut, une attestation |
+| de fourniture des déclarations sociales et de paiement des cotisations et contributions de |
+| sécurité sociale prévue à l' article L. 243-15 du code de la sécurité sociale |
+| Lorsque le soumissionnaire est établi hors de France : un extrait du registre pertinent au sens |
+| de l'article R.2143-9 du code de la commande publique, ou un document équivalent délivré |
+| par l'autorité judiciaire ou administrative compétente du pays d'origine, attestant de l'absence |
+| de cas d'exclusion. Pour les entreprises en cours de création, un document datant de moins de |
+| 6 mois émanant de l'autorité habilitée à recevoir l'inscription au registre professionnel et |
+| attestant de la demande d'immatriculation audit registre ; |
+
+- Lorsque le soumissionnaire est établi hors de France : Le cas échéant, en cas de recours à des
+travailleurs détachés, dans les conditions définies à l'article L.1262-1 du code du travail :
+a) L'accusé de réception de la déclaration de détachement effectuée sur le télé-service " SIPSI
+" du ministère chargé du travail, conformément aux articles R. 1263-5 et R. 1263-7 du code du
+travail ;
+b) Une attestation sur l'honneur certifiant que le cocontractant s'est, le cas échéant, acquitté
+du paiement des sommes dues au titre des amendes prévues aux articles L. 1263-6, L. 1264-1, L.
+1264-2 et L. 8115-1 du code du travail. Cette attestation comporte les nom, prénom, raison
+sociale du cocontractant et la signature de son représentant légal.
+- Lorsque le soumissionnaire est établi hors de France : Lorsque les autorités compétentes du
+pays d'origine ou d'établissement du soumissionnaire ne délivrent pas les moyens de preuve
+ou si les documents délivrés ne mentionnent pas tous les cas d'interdiction de soumissionner,
+le soumissionnaire peut fournir une déclaration sous serment, ou dans les pays où une telle
+procédure n'existe pas, par une déclaration solennelle faite par l'intéressé devant une autorité
+judiciaire ou administrative, un notaire ou un organisme professionnel qualifié de pays
+d'origine ou d'établissement.
+- Sa chartre de déontologie.
+Motif d'exclusion lié au non-respect de l'obligation des entreprises d'établir un bilan de leurs émissions
+de gaz à effet de serre
+Les soumissionnaires présentent, à la demande de l'acheteur, leur bilan des émissions de gaz à effet
+de serre (BEGES) établi conformément à l'article L.229-25 du Code de l'environnement. En l'absence
+de présentation de celui-ci dans le délai fixé par l'acheteur, l'acheteur se réserve le droit d'exclure le(s)
+soumissionnaire(s) concerné(s) de la procédure.
+8.2 Interdiction d'attribution
+Est exclu de la procédure tout candidat auquel l'acheteur ne peut attribuer le contrat, en application
+d'une interdiction émanant d'un texte d'applicabilité directe (accords internationaux, règlement
+européen...).
+8.3 Mise au point
+L'acheteur et le soumissionnaire retenu peuvent procéder à une mise au point des composantes de
+l'accord-cadre. Cette mise au point ne peut avoir pour objet de modifier des éléments substantiels de
+l'offre ou du présent accord-cadre.
+8.4 Signature
+L'accord-cadre est signé électroniquement par le soumissionnaire retenu au moyen de l'acte
+d'engagement (formulaire ATTRI1) qui lui est adressé par l'acheteur.
+RC – DAE-AMOA-2025 Page 32 sur 35
+
+| Lorsque le soumissionnaire est établi hors de France : Le cas échéant, en cas de recours à des |
+| --- |
+| travailleurs détachés, dans les conditions définies à l'article L.1262-1 du code du travail : |
+| a) L'accusé de réception de la déclaration de détachement effectuée sur le télé-service " SIPSI |
+| " du ministère chargé du travail, conformément aux articles R. 1263-5 et R. 1263-7 du code du |
+| travail ; |
+| b) Une attestation sur l'honneur certifiant que le cocontractant s'est, le cas échéant, acquitté |
+| du paiement des sommes dues au titre des amendes prévues aux articles L. 1263-6, L. 1264-1, L. |
+| 1264-2 et L. 8115-1 du code du travail. Cette attestation comporte les nom, prénom, raison |
+| sociale du cocontractant et la signature de son représentant légal. |
+| Lorsque le soumissionnaire est établi hors de France : Lorsque les autorités compétentes du |
+| pays d'origine ou d'établissement du soumissionnaire ne délivrent pas les moyens de preuve |
+| ou si les documents délivrés ne mentionnent pas tous les cas d'interdiction de soumissionner, |
+| le soumissionnaire peut fournir une déclaration sous serment, ou dans les pays où une telle |
+| procédure n'existe pas, par une déclaration solennelle faite par l'intéressé devant une autorité |
+| judiciaire ou administrative, un notaire ou un organisme professionnel qualifié de pays |
+| d'origine ou d'établissement. |
+| Sa chartre de déontologie. |
+
+| Motif d'exclusion lié au non-respect de l'obligation des entreprises d'établir un bilan de leurs émissions |
+| --- |
+| de gaz à effet de serre |
+| Les soumissionnaires présentent, à la demande de l'acheteur, leur bilan des émissions de gaz à effet |
+| de serre (BEGES) établi conformément à l'article L.229-25 du Code de l'environnement. En l'absence |
+| de présentation de celui-ci dans le délai fixé par l'acheteur, l'acheteur se réserve le droit d'exclure le(s) |
+| soumissionnaire(s) concerné(s) de la procédure. |
+
+| Est exclu de la procédure tout candidat auquel l'acheteur ne peut attribuer le contrat, en application |
+| --- |
+| d'une interdiction émanant d'un texte d'applicabilité directe (accords internationaux, règlement |
+| européen...). |
+
+| L'acheteur et le soumissionnaire retenu peuvent procéder à une mise au point des composantes de |  |
+| --- | --- |
+| l'accord-cadre. Cette mise au point ne peut avoir pour objet de | modifier des éléments substantiels de |
+| l'offre ou du présent accord-cadre. |  |
+
+| L'accord-cadre est signé électroniquement par le soumissionnaire retenu au moyen de l'acte |
+| --- |
+| d'engagement (formulaire ATTRI1) qui lui est adressé par l'acheteur. |
+
+La signature électronique doit respecter les exigences prévues à l'article "MODALITES DE SIGNATURE
+ELECTRONIQUE".
+# ARTICLE 9 - LANGUE
+Les documents et informations doivent être rédigés en langue française ou, à défaut, être
+accompagnées d'une traduction en français.
+En cas de candidature sous forme de DUME, ce dernier doit être rédigé en français.
+# ARTICLE 10 - CONTENTIEUX
+Le tribunal compétent est le tribunal administratif de Paris
+# ARTICLE 11 – MODALITES DE SIGNATURE ELECTRONIQUE
+La signature s'effectue par voie électronique
+Chaque document à signer doit être signé individuellement.
+Un dossier compressé signé ne vaut pas signature des documents qu'il contient. Quel que soit le format
+du dossier compressé, chaque document pour lequel une signature est requise doit être signé
+séparément.
+Des renseignements complémentaires au sujet de la signature électroniques peuvent être obtenus :
+- dans PLACE (guide d'utilisation- utilisateur entreprise) ;
+- dans le guide « très pratique » sur la dématérialisation des marchés public (version opérateurs
+économiques) disponible sur le site internet de la Direction des Affaires juridiques des
+ministères économiques et financiers.
+En application de l'arrêté du 22 mars 2019 relatif à la signature électronique des contrats de la
+commande publique, le signataire doit respecter les conditions relatives :
+1. au certificat de signature électronique ;
+2. à l'outil de signature électronique (appelé aussi « dispositif de création de signature
+électronique »)
+RC – DAE-AMOA-2025 Page 33 sur 35
+
+| La signature électronique doit respecter les exigences prévues à l'article "MODALITES DE SIGNATURE |
+| --- |
+| ELECTRONIQUE". |
+
+| Les documents et informations doivent être rédigés en langue française ou, à défaut, être |
+| --- |
+| accompagnées d'une traduction en français. |
+
+| Un dossier compressé signé ne vaut pas signature des documents qu'il contient. Quel que soit le format |
+| --- |
+| du dossier compressé, chaque document pour lequel une signature est requise doit être signé |
+| séparément. |
+
+| dans PLACE (guide d'utilisation- utilisateur entreprise) ; |
+| --- |
+| dans le guide « très pratique » sur la dématérialisation des marchés public (version opérateurs |
+| économiques) disponible sur le site internet de la Direction des Affaires juridiques des |
+| ministères économiques et financiers. |
+
+| En application de l'arrêté du 22 mars 2019 relatif à la signature électronique des contrats de la |
+| --- |
+| commande publique, le signataire doit respecter les conditions relatives : |
+
+| au certificat de signature électronique ; |
+| --- |
+| à l'outil de signature électronique (appelé aussi « dispositif de création de signature |
+| électronique ») |
+
+La signature électronique doit reposer sur un certificat qualifié, conforme au Règlement (UE) n°
+910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les
+services de confiance pour les transactions électroniques au sein du marché intérieur (eIDAS).
+Sont autorisées :
+- la signature électronique avancée avec certificat qualifié (niveau 3)
+- la signature électronique qualifiée (niveau 4)
+1er cas : certificat qualifié délivré par un prestataire de service de confiance qualifié et répondant aux
+exigences du règlement européen eIDAS.
+Un prestataire de service de confiance qualifié est un prestataire qui fournit un ou des services de
+confiance qualifiés et a obtenu le statut qualifié de l'organe chargé du contrôle (article 3.20 du
+règlement eIDAS). Des listes de prestataires de confiance sont disponibles :
+- sur le site de l'Agence nationale de la sécurité des systèmes d'information (ANSSI)
+- sur le site de la commission européenne : https://ec.europa.eu/digital-single-
+market/en/news/cef-esignature-trusted-list-browser-now-available )
+Lorsque le signataire utilise un certificat délivré par un prestataire de service de confiance qualifié
+répondant aux exigences du règlement européen eIDAS et l'outil de création de signature
+électronique proposé par le profil d'acheteur de l'acheteur, aucun justificatif n'est à fournir sur la
+procédure de vérification de la signature électronique.
+2ème cas : certificat délivré par une autorité de certification, française ou étrangère, qui répond aux
+exigences équivalentes du règlement européen eIDAS et notamment celles de son annexe I.
+Le signataire remet lors du dépôt du document signé le mode d'emploi et tous les éléments
+nécessaires permettant de procéder gratuitement à la vérification de la validité de la signature
+électronique, conformément à l'article 5 de l'arrêté du 22 mars 2019 relatif à la signature électronique
+des contrats de la commande publique, notamment, le cas échéant, une notice d'explication en
+français.
+Les frais éventuels d'acquisition du certificat de signature sont à la charge des candidats.
+Un certificat qualifié de signature électronique délivré en en application de l'arrêté du 15 juin 2012
+relatif à la signature électronique dans les marchés publics (certificat conforme au référentiel général
+de sécurité « RGS ») reste utilisable jusqu'au terme de sa validité.
+Exigences relatives à l'outil de signature.
+Le signataire utilise l'outil de signature électronique de son choix (logiciel, service en ligne à l'instar du
+profil d'acheteur de l'acheteur, parapheur électronique, etc.) pour apposer la signature avec le
+RC – DAE-AMOA-2025 Page 34 sur 35
+
+| La signature électronique doit reposer sur un certificat qualifié, conforme au Règlement (UE) n° |
+| --- |
+| 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les |
+| services de confiance pour les transactions électroniques au sein du marché intérieur (eIDAS). |
+
+| la signature électronique avancée avec certificat qualifié (niveau 3) |
+| --- |
+| la signature électronique qualifiée (niveau 4) |
+
+| 1er cas : certificat qualifié délivré par un prestataire de service de confiance qualifié et répondant aux |
+| --- |
+| exigences du règlement européen eIDAS. |
+
+| Un prestataire de service de confiance qualifié est un prestataire qui fournit un ou des services de |
+| --- |
+| confiance qualifiés et a obtenu le statut qualifié de l'organe chargé du contrôle (article 3.20 du |
+| règlement eIDAS). Des listes de prestataires de confiance sont disponibles : |
+
+| sur le site de l'Agence nationale de la sécurité des systèmes d'information (ANSSI) |
+| --- |
+| sur le site de la commission européenne : https://ec.europa.eu/digital-single- |
+| market/en/news/cef-esignature-trusted-list-browser-now-available ) |
+
+| Lorsque le signataire utilise un certificat délivré par un prestataire de service de confiance qualifié |
+| --- |
+| répondant aux exigences du règlement européen eIDAS et l'outil de création de signature |
+| électronique proposé par le profil d'acheteur de l'acheteur, aucun justificatif n'est à fournir sur la |
+| procédure de vérification de la signature électronique. |
+
+| 2ème cas : certificat délivré par une autorité de certification, française ou étrangère, qui répond aux |
+| --- |
+| exigences équivalentes du règlement européen eIDAS et notamment celles de son annexe I. |
+
+| Le signataire remet lors du dépôt du document signé le mode d'emploi et tous les éléments |
+| --- |
+| nécessaires permettant de procéder gratuitement à la vérification de la validité de la signature |
+| électronique, conformément à l'article 5 de l'arrêté du 22 mars 2019 relatif à la signature électronique |
+| des contrats de la commande publique, notamment, le cas échéant, une notice d'explication en |
+| français. |
+
+| Les frais éventuels d'acquisition du certificat de signature sont à la charge des candidats. |
+| --- |
+| Un certificat qualifié de signature électronique délivré en en application de l'arrêté du 15 juin 2012 |
+| relatif à la signature électronique dans les marchés publics (certificat conforme au référentiel général |
+| de sécurité « RGS ») reste utilisable jusqu'au terme de sa validité. |
+
+| Le signataire utilise l'outil de signature électronique de son choix (logiciel, service en ligne à l'instar du |
+| --- |
+| profil d'acheteur de l'acheteur, parapheur électronique, etc.) pour apposer la signature avec le |
+
+certificat utilisé. L'outil est conforme aux formats réglementaires (XAdES, CAdES ou PAdES) et doit
+produire des jetons de signature.
+S'il utilise un autre outil de signature que celui du profil d'acheteur, cet outil doit être conforme aux
+exigences du règlement européen eIDAS et notamment celles fixées à son annexe II. Le signataire doit
+transmettre le mode d'emploi permettant à l'acheteur de procéder aux vérifications nécessaires.
+Quels que soient l'outil utilisé, celui-ci ne doit ni modifier le document signé ni porter atteinte à son
+intégrité.
+Le signataire, titulaire du certificat de signature, doit avoir le pouvoir d'engager la société. Il peut s'agir
+soit du représentant légal de la société soit d'une personne qui dispose d'une délégation de signature.
+Dans la situation d'un groupement d'opérateurs économiques, soit tous les membres du groupement
+signent, soit le mandataire qui doit justifier des habilitations nécessaires pour représenter les autres
+membres du groupement.
+ARTICLE 12 – AMENAGEMENT EN CAS DE MENACE SANITAIRE GRAVE APPELANT DES MESURES
+D’URGENCE
+En cas de menace sanitaire grave appelant des mesures d'urgence déclarée en cours de consultation,
+l'acheteur peut aménager certaines modalités de mise en concurrence dans le respect des principes
+fondamentaux de la commande publique et après information des candidats ou soumissionnaires
+dans les meilleurs délais. L'acheteur s'assure également de leur possibilité de poursuivre la procédure
+selon les nouvelles modalités fixées.
+Les modalités de signature pour lesquelles l'acheteur peut accepter des documents signés de manière
+manuscrite et scannés, si le candidat ou le soumissionnaire est dans l'impossibilité de procéder à la
+signature électronique. Une fois l'évènement perturbateur terminé, les originaux signés sont transmis
+dans les meilleurs délais à l'acheteur afin d'établir une preuve parfaite des engagements contractuels.
+# ARTICLE 13 – ANNEXES
+- Annexe 1 : Ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3)
+- Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant des
+difficultés sociales ou professionnelles particulières
+RC – DAE-AMOA-2025 Page 35 sur 35
+
+| certificat utilisé. L'outil est conforme aux formats réglementaires (XAdES, CAdES ou PAdES) et doit |
+| --- |
+| produire des jetons de signature. |
+
+| S'il utilise un autre outil de signature que celui du profil d'acheteur, cet outil doit être conforme aux |
+| --- |
+| exigences du règlement européen eIDAS et notamment celles fixées à son annexe II. Le signataire doit |
+| transmettre le mode d'emploi permettant à l'acheteur de procéder aux vérifications nécessaires. |
+| Quels que soient l'outil utilisé, celui-ci ne doit ni modifier le document signé ni porter atteinte à son |
+| intégrité. |
+
+| Le signataire, titulaire du certificat de signature, doit avoir le pouvoir d'engager la société. Il peut s'agir |
+| --- |
+| soit du représentant légal de la société soit d'une personne qui dispose d'une délégation de signature. |
+| Dans la situation d'un groupement d'opérateurs économiques, soit tous les membres du groupement |
+| signent, soit le mandataire qui doit justifier des habilitations nécessaires pour représenter les autres |
+| membres du groupement. |
+
+| ARTICLE 12 – AMENAGEMENT EN CAS DE MENACE SANITAIRE GRAVE APPELANT DES MESURES |
+| --- |
+| D’URGENCE |
+
+| En cas de menace sanitaire grave appelant des mesures d'urgence déclarée en cours de consultation, |
+| --- |
+| l'acheteur peut aménager certaines modalités de mise en concurrence dans le respect des principes |
+| fondamentaux de la commande publique et après information des candidats ou soumissionnaires |
+| dans les meilleurs délais. L'acheteur s'assure également de leur possibilité de poursuivre la procédure |
+| selon les nouvelles modalités fixées. |
+
+| Les modalités de signature pour lesquelles l'acheteur peut accepter des documents signés de manière |
+| --- |
+| manuscrite et scannés, si le candidat ou le soumissionnaire est dans l'impossibilité de procéder à la |
+| signature électronique. Une fois l'évènement perturbateur terminé, les originaux signés sont transmis |
+| dans les meilleurs délais à l'acheteur afin d'établir une preuve parfaite des engagements contractuels. |
+
+| Annexe 1 : Ordre de préférence d’attribution des lots (pour les lots 1, 2 et 3) |
+| --- |
+| Annexe 2 : Questionnaire performance en matière d’insertion des publics rencontrant des |
+| difficultés sociales ou professionnelles particulières |
